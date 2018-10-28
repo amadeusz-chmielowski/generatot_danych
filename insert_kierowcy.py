@@ -16,7 +16,7 @@ def create_insert_file():
 
     kierowca = open("kierowcy.sql", "w")
 
-    for i in range(99):
+    for i in range(150):
         if zdjecietable[i].strip()[0] == '?':
             zdjecietable[i] = "https://placeholdit.imgix.net/default"
         FK_marka = random.randint(0, 2500)

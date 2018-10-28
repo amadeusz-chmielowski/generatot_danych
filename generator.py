@@ -31,7 +31,7 @@ fake2 = Factory.create()
 
 
 def fill_function():
-    for iterator in range(2600):
+    for iterator in range(2700):
         pesel_one = fake.random_number(11)
         if len(str(pesel_one)) != 11:
             z = 11 - len(str(pesel_one))
@@ -86,7 +86,7 @@ def create_faktura(name, list_of_elements):
 
 def create_kierowcy():
     file = open("pesel_kierowcy.txt", "a+")
-    for i in range(2501, 2600):
+    for i in range(2501, 2700):
         file.write(str(pesel[i]) + "\n")
 
 

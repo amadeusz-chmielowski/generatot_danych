@@ -1,2500 +1,2500 @@
-£ódŸ
-Zielona Góra
-Rumia
-Bydgoszcz
-P³ock
-Luboñ
-Kraœnik
-Jarocin
-Bia³ystok
-Miñsk Mazowiecki
-Œwiecie
-£ódŸ
-Ostrów Wielkopolski
-Sieradz
-Tarnowskie Góry
-Bia³a Podlaska
-Sandomierz
-Lublin
-W¹growiec
-Lêbork
-Tomaszów Mazowiecki
-M³awa
-Rumia
-Gorzów Wielkopolski
-Œrem
-Mys³owice
-Bia³ogard
-Pi³a
-Ko³o
-P³oñsk
-Wejherowo
-Gniezno
-Sieradz
-Rumia
-Piastów
-Gdañsk
-Wodzis³aw Œl¹ski
-Sosnowiec
-Grudzi¹dz
-Jaworzno
-Rzeszów
-Bydgoszcz
-Sandomierz
-Polkowice
-Ko³obrzeg
-Jaworzno
-Ostróda
-E³k
-Gi¿ycko
-Nowa Ruda
-Bochnia
-CzeladŸ
-S³upsk
-Grudzi¹dz
-W¹growiec
-Pi³a
-Œwidnica
-Reda
-W¹growiec
-Pszczyna
-Chojnice
-Koœcierzyna
-Kutno
-£aziska Górne
-Lubartów
-Tarnobrzeg
-Piaseczno
-Zawiercie
-Z¹bki
-Zamoœæ
-Tarnobrzeg
-Wa³cz
-£aziska Górne
-Pruszków
-Elbl¹g
-Wyszków
-Elbl¹g
-Dzier¿oniów
-Pi³a
-Rzeszów
-Marki
-¯ory
-£om¿a
-Konin
-Ko³o
-Wieluñ
-Rzeszów
-Kraœnik
-Boles³awiec
-Lubin
-Pruszcz Gdañski
-Suwa³ki
-Tczew
-Bydgoszcz
-W³oc³awek
-P³oñsk
-Nowy Dwór Mazowiecki
-Dzier¿oniów
-Bia³a Podlaska
-£uków
-Jastrzêbie-Zdrój
-Rumia
-Koœcian
-Gdynia
-Bi³goraj
-Nowy S¹cz
-Pi³a
-Ko³obrzeg
-£aziska Górne
-Ostróda
-Wodzis³aw Œl¹ski
-Czerwionka-Leszczyny
-Malbork
-Zielona Góra
-Che³m
-Myszków
-Legnica
-Krotoszyn
-Jelenia Góra
-Nowy S¹cz
-Œwiêtoch³owice
-Rumia
-Rumia
-Koszalin
-Sanok
-Miko³ów
-D¹browa Górnicza
-£owicz
-Grodzisk Mazowiecki
-Zduñska Wola
-Dêbica
-Olsztyn
-Nowy Dwór Mazowiecki
-Nowy S¹cz
-Lubin
-Gorlice
-Legionowo
-O³awa
-Wodzis³aw Œl¹ski
-Gliwice
-Pruszków
-Kalisz
-£om¿a
-Koszalin
-Inowroc³aw
-Lublin
-Kraków
-Skierniewice
-Jas³o
-Mys³owice
-Wrzeœnia
-P³oñsk
-Zgierz
-¯ory
-Œwidnik
-Przemyœl
-Ostro³êka
-Kutno
-Olkusz
-Krotoszyn
-Grodzisk Mazowiecki
-Legnica
-Chrzanów
-Nowa Sól
-Wyszków
-Koœcian
-Œwinoujœcie
-Cieszyn
-Ostrów Mazowiecka
-Tarnów
-G³ogów
-Wieluñ
-Luboñ
-Piekary Œl¹skie
-Jawor
-Mielec
-£om¿a
-Lubliniec
-Bytom
-Œwiêtoch³owice
-M³awa
-Boles³awiec
-Oleœnica
-I³awa
-Kluczbork
-M³awa
-P³ock
-Ostróda
-Nowy Dwór Mazowiecki
-Oleœnica
-Nowy Dwór Mazowiecki
-Sochaczew
-Wroc³aw
-Poznañ
-Nowa Ruda
-Nowy Dwór Mazowiecki
-Bia³a Podlaska
-Chorzów
-Jarocin
-Œwiecie
-Bochnia
-Kielce
-Jas³o
-Œwiêtoch³owice
-Toruñ
-Tarnowskie Góry
-Przemyœl
-Bia³a Podlaska
-Oœwiêcim
-Bia³ystok
-Wo³omin
-Radom
-£uków
-Tarnowskie Góry
-£om¿a
 Szczytno
-Swarzêdz
-Kalisz
-Œwidnica
-Bi³goraj
-Gliwice
-Wa³brzych
-Œwiebodzice
-Bia³ogard
-Wo³omin
-Che³m
-Jelenia Góra
-Poznañ
-£om¿a
-Œwinoujœcie
-Kutno
+£uków
+Tarnowskie Góry
+£aziska Górne
+Lubliniec
+Elbl¹g
 Wroc³aw
-Piekary Œl¹skie
-Zawiercie
-Tarnobrzeg
-Radomsko
-Stargard Szczeciñski
-Sandomierz
-P³oñsk
-Jas³o
-W¹growiec
-Koœcierzyna
-E³k
-¯yrardów
-Œwiebodzice
-Jaworzno
-Zielona Góra
+Kraków
+Kwidzyn
 Wyszków
-Sandomierz
-Nowy S¹cz
-M³awa
-Bytom
-Mielec
-Œwiebodzice
+Pi³a
 G³ogów
-I³awa
+Wa³brzych
+Tarnowskie Góry
+Sieradz
+Luboñ
+Olsztyn
+Sopot
+Poznañ
+Tomaszów Mazowiecki
+£uków
+Tychy
+Oleœnica
+Œwidnica
+Brodnica
+Piaseczno
+Leszno
+Rumia
+Suwa³ki
+Kêdzierzyn-KoŸle
+Bielawa
+Ko³obrzeg
+Œwidnica
+Nowy Dwór Mazowiecki
+Jas³o
+G³ogów
+Koœcian
+Polkowice
+Ostro³êka
+Lêbork
+Sieradz
+Bia³ystok
+Miko³ów
+Zielona Góra
+Legnica
+Lublin
+Wyszków
+Zakopane
+Nysa
+Kêdzierzyn-KoŸle
+Krosno
+Cieszyn
+Gdañsk
+¯yrardów
+Zabrze
+Jaworzno
+Bytom
+Gdañsk
+Legnica
+Zamoœæ
+Bielawa
+Pabianice
+Bartoszyce
+Turek
+Krosno
+Sochaczew
+Polkowice
+Reda
+Myszków
+Czechowice-Dziedzice
+Piaseczno
+Brodnica
+Luboñ
+£uków
+Tychy
+Bytom
+Chojnice
+Nowa Ruda
+Wroc³aw
+Zielona Góra
+Œrem
+Gdañsk
+Bia³ogard
+P³ock
+Gniezno
+Nowa Sól
+Wa³cz
+Wyszków
+Tarnobrzeg
+Œwiêtoch³owice
+Leszno
+Œwidnik
+Siedlce
+£aziska Górne
+Nowy Targ
+Chorzów
+Nowy S¹cz
+Skar¿ysko-Kamienna
+Œwiecie
+Tczew
+Wa³brzych
+Toruñ
+Bielsk Podlaski
+Suwa³ki
+Tychy
+Tarnobrzeg
+Che³m
+Ostrowiec Œwiêtokrzyski
+Piastów
+Reda
+Œwinoujœcie
+Bia³a Podlaska
 Bêdzin
-Olsztyn
-E³k
-Bydgoszcz
-Szczytno
-P³ock
-£om¿a
-Ruda Œl¹ska
-Goleniów
-Bia³ogard
-S³upsk
-Bielsko-Bia³a
-Siemianowice Œl¹skie
-Lubartów
-Zielona Góra
-D¹browa Górnicza
-Bia³a Podlaska
-Jawor
-Starogard Gdañski
-Nowy Targ
-Sopot
-Pruszków
-Starachowice
-Dêbica
-Sandomierz
-Zielona Góra
-Œwidnik
-Jastrzêbie-Zdrój
+Mielec
+Tarnowskie Góry
+Gi¿ycko
+Œwidnica
 Swarzêdz
-Poznañ
-Tomaszów Mazowiecki
-Kêdzierzyn-KoŸle
-Kraœnik
-Bielsko-Bia³a
 M³awa
-Wrzeœnia
-Kutno
+Chorzów
+Gdañsk
+Jaworzno
+Skierniewice
+Tomaszów Mazowiecki
+Wa³cz
+Skar¿ysko-Kamienna
+Rumia
+Jarocin
+Luboñ
+£aziska Górne
+Tarnobrzeg
+Radomsko
+P³oñsk
+Boles³awiec
+Sieradz
+K³odzko
+Jarocin
 Dzier¿oniów
-Leszno
-Lubin
-Œwidnik
-Augustów
-Lublin
+Ostro³êka
+Oleœnica
+Oœwiêcim
+Ostrowiec Œwiêtokrzyski
+Grudzi¹dz
+Jas³o
+Œwiecie
+Koœcian
+Tomaszów Mazowiecki
+Bielsk Podlaski
+Legnica
+Grudzi¹dz
+Kraków
+Koœcierzyna
+Koszalin
+Luboñ
+Œwiebodzice
+Szczecin
+Piotrków Trybunalski
+Gniezno
+Nowy Dwór Mazowiecki
+Jaros³aw
+Jaworzno
+CzeladŸ
+Piotrków Trybunalski
+£owicz
+Bielawa
+Wa³cz
+Rumia
+Radomsko
+Szczytno
+Ostrów Wielkopolski
+Skierniewice
+Police
+Sochaczew
+Jarocin
+Œwidnica
+£om¿a
+D¹browa Górnicza
+Pi³a
+Zduñska Wola
 Nowy S¹cz
 Grudzi¹dz
-Legionowo
-£om¿a
-Mys³owice
-Lublin
-Piekary Œl¹skie
-Lubliniec
-Krotoszyn
-¯yrardów
-Dzier¿oniów
-Sandomierz
+Gi¿ycko
+Szczecin
+Skierniewice
+Bi³goraj
+Tarnobrzeg
+Elbl¹g
+Police
+K³odzko
+Radomsko
+Bytom
+Gorlice
+Jaros³aw
+Poznañ
+Jaros³aw
+D¹browa Górnicza
+¯ary
+Cieszyn
+Gorzów Wielkopolski
+D¹browa Górnicza
+Œwiecie
+Malbork
+Radom
+Œwidnica
+Brodnica
+Œroda Wielkopolska
+Pi³a
+Bartoszyce
+Olkusz
+Pszczyna
+Zgorzelec
+Polkowice
+Jelenia Góra
+Gorlice
+Œwiecie
+Gdynia
+Mielec
+Ko³o
+¯ory
+Sosnowiec
+Sochaczew
+Sieradz
+Œwidnik
+Brodnica
+Wa³brzych
+Bielawa
+Gliwice
+Legnica
+Koszalin
+Bia³ogard
+Sopot
+Tarnobrzeg
+Czerwionka-Leszczyny
+Miko³ów
 Jastrzêbie-Zdrój
+Ko³o
+Kwidzyn
+S³upsk
+Œwiebodzice
+Kêtrzyn
+Piekary Œl¹skie
+Lublin
+Tomaszów Mazowiecki
+Police
+Radomsko
+Cieszyn
+E³k
+Tarnowskie Góry
+Skawina
+Bochnia
+Oœwiêcim
+Katowice
+Dzier¿oniów
+Be³chatów
+Elbl¹g
+Krosno
+Zduñska Wola
+Nowa Ruda
+M³awa
+Radom
+K³odzko
+Boles³awiec
+Ko³obrzeg
+Sieradz
+E³k
+Augustów
+Sosnowiec
+W³oc³awek
+¯yrardów
+Cieszyn
+Jarocin
+Radom
+Olkusz
+Chorzów
+Konin
+Kraków
+Nowa Sól
+Grodzisk Mazowiecki
+W³oc³awek
+Suwa³ki
+Kluczbork
+Gorzów Wielkopolski
+Szczecinek
+Toruñ
+Wodzis³aw Œl¹ski
+Bêdzin
+Pabianice
+Œroda Wielkopolska
+Pi³a
+O³awa
+Kraœnik
+Skar¿ysko-Kamienna
+Myszków
+Grodzisk Mazowiecki
+Skawina
+£aziska Górne
+Pruszków
+Wyszków
+Sanok
+Ruda Œl¹ska
+Ostróda
+Bia³ystok
+Kutno
+Siedlce
+Sopot
+Gi¿ycko
+Warszawa
+Pszczyna
+Lubartów
+Koszalin
+Wo³omin
+Zambrów
+Nowy Targ
+Siemianowice Œl¹skie
+Malbork
+Œwiecie
+Mielec
+Pszczyna
+Przemyœl
+Krotoszyn
+Przemyœl
+Zamoœæ
+Kêdzierzyn-KoŸle
+Gdañsk
+Czerwionka-Leszczyny
+Koœcian
+Bielsk Podlaski
+Nowa Ruda
+Malbork
+Jastrzêbie-Zdrój
+Stargard Szczeciñski
+Rybnik
+Pi³a
+Ruda Œl¹ska
+Opole
+Szczecinek
+Siemianowice Œl¹skie
+E³k
+Kraœnik
+Œwiecie
+W¹growiec
+Kraków
+Lubliniec
+Chorzów
+Sieradz
+Zduñska Wola
+Zduñska Wola
+Opole
+Lubin
+Malbork
+Nowa Ruda
+O³awa
+Jaworzno
+Sochaczew
+Ostróda
+W¹growiec
+Legnica
+Radomsko
+P³oñsk
+Nowy Targ
+Ciechanów
+Jaworzno
+Lubartów
+Z¹bki
+Zduñska Wola
+Luboñ
+Poznañ
+Bielsko-Bia³a
+Bytom
+Szczytno
+Œwinoujœcie
+Pabianice
+Piastów
+M³awa
+Wejherowo
+Inowroc³aw
+Marki
+Pu³awy
+Grodzisk Mazowiecki
+£ódŸ
+Marki
+Wroc³aw
+Zgierz
+Starachowice
+Przemyœl
+Lubartów
+Jaros³aw
+Czêstochowa
+Koœcierzyna
+Pi³a
+Wrzeœnia
+Szczecin
+Jarocin
+Turek
+Nowy Dwór Mazowiecki
+Nowy Targ
+Goleniów
+Jarocin
+Kalisz
+Suwa³ki
+Piekary Œl¹skie
+Cieszyn
+Bia³a Podlaska
+¯agañ
+Nowa Sól
+Œwidnica
+Police
+Myszków
+Racibórz
+Ostrowiec Œwiêtokrzyski
+W¹growiec
+Gi¿ycko
+Inowroc³aw
+Lubliniec
+Ostróda
+Jarocin
+Jas³o
+Bi³goraj
+Tarnowskie Góry
+Bia³ogard
+Cieszyn
+Pruszków
+Tczew
+Jaworzno
+Chorzów
+S³upsk
+Ko³o
+Bia³ystok
+Toruñ
+Wa³brzych
+Skierniewice
+Che³m
+E³k
+Œwidnik
+Kutno
+Bydgoszcz
+Bochnia
+Chojnice
+Suwa³ki
+Jastrzêbie-Zdrój
+Sopot
+Grudzi¹dz
+Police
+Swarzêdz
+Jaworzno
+Bydgoszcz
+Miko³ów
+Be³chatów
+Kluczbork
+Kutno
+Gliwice
+Skar¿ysko-Kamienna
+Czêstochowa
+Rzeszów
+Wrzeœnia
+Turek
+Siedlce
+Grudzi¹dz
+Rybnik
+Lublin
+Gliwice
+Koœcierzyna
+Ciechanów
+Bêdzin
+¯ory
+Chorzów
+Zgorzelec
+£uków
+W³oc³awek
+S³upsk
+Grodzisk Mazowiecki
+Miñsk Mazowiecki
+Œwidnica
+Nowy Targ
+Dzier¿oniów
+Tarnów
+Wa³brzych
+G³ogów
+Lubartów
+¯ywiec
+Ostrów Mazowiecka
+Katowice
+Rumia
+Tarnowskie Góry
+Bia³ystok
+Œwiêtoch³owice
+Tarnowskie Góry
+Ostróda
+Siedlce
+Poznañ
+Sosnowiec
+Skawina
+Bêdzin
+Bochnia
+Tarnobrzeg
+Malbork
+¯yrardów
+Z¹bki
+Sieradz
+Szczecin
+Swarzêdz
+Zambrów
+Tarnobrzeg
+Gorlice
+D¹browa Górnicza
+Bi³goraj
+Sopot
+Tarnowskie Góry
+Pu³awy
+Œwidnik
+Bartoszyce
+Bielsk Podlaski
+Tarnowskie Góry
+Skawina
+Piaseczno
+Bi³goraj
+Kielce
+Bêdzin
+Szczecin
+Kraœnik
+Bia³a Podlaska
+Leszno
+£aziska Górne
+Nowy Targ
+Legnica
+¯agañ
+Mielec
+Wieluñ
+Z¹bki
+Szczytno
+Tychy
+Bartoszyce
+Szczecinek
+Zambrów
+Koœcierzyna
+Sosnowiec
+Piotrków Trybunalski
+Kalisz
+Czerwionka-Leszczyny
+Lêbork
+Bi³goraj
+Wa³brzych
+Jaworzno
+Kêtrzyn
+Skawina
+Koœcian
+Zabrze
+Pu³awy
+Szczecinek
+Bia³a Podlaska
+Ostrów Mazowiecka
+Bia³ystok
+Czechowice-Dziedzice
+Wa³brzych
+Rzeszów
+Œwiêtoch³owice
+£om¿a
+Wa³brzych
+Wo³omin
+Suwa³ki
+Radom
+Kwidzyn
+D¹browa Górnicza
+Skar¿ysko-Kamienna
+Tczew
+Elbl¹g
+Czêstochowa
+Jarocin
+Reda
+Jaros³aw
+Kalisz
+Bia³ystok
+Racibórz
+Malbork
+Kraœnik
+Knurów
+Cieszyn
+Jas³o
+Kraœnik
+E³k
+Radom
+£owicz
+Gniezno
+Zamoœæ
+Sochaczew
+Miko³ów
+Kraœnik
+Otwock
+Katowice
+Miko³ów
+Tarnów
+Lubin
+Jas³o
+Nowy Targ
+¯ywiec
+Lubliniec
+Suwa³ki
+Krotoszyn
+Krotoszyn
+Zakopane
+W³oc³awek
+Gorzów Wielkopolski
+Szczytno
+Szczecinek
+Skawina
+Œwidnica
+Lublin
+Czêstochowa
+Koszalin
+Skawina
+Œwinoujœcie
+Lubin
+Boles³awiec
+¯ywiec
+¯yrardów
+Wejherowo
+Kraœnik
+Brzeg
+Bia³a Podlaska
+Wyszków
+Gi¿ycko
+Zambrów
+Przemyœl
+Radom
+Krosno
+Szczecin
+Bia³a Podlaska
+Grodzisk Mazowiecki
+Œwidnik
+Kraków
+Sopot
+£om¿a
+Przemyœl
+Bochnia
+Leszno
+Wo³omin
+Przemyœl
+Mys³owice
+Ostróda
+Czechowice-Dziedzice
+Siedlce
+Lublin
+Kielce
+Stalowa Wola
+Nowy S¹cz
+Piekary Œl¹skie
+Police
+Skierniewice
+Bytom
+Gniezno
+Kluczbork
+Stargard Szczeciñski
+Pu³awy
+Kluczbork
+Chorzów
+Pu³awy
+Bartoszyce
+Piekary Œl¹skie
+Oœwiêcim
+Zawiercie
+Jas³o
+Krotoszyn
+Zgierz
+Zabrze
+Be³chatów
+Siedlce
+Tczew
+Rzeszów
+Cieszyn
+Oœwiêcim
+Konin
+Stalowa Wola
+P³ock
+Poznañ
+¯yrardów
+Szczytno
+O³awa
+Piastów
+Radomsko
+Nowy Targ
+O³awa
+Myszków
+Jarocin
+Reda
+Sopot
+Z¹bki
+M³awa
+Kutno
+Skawina
+Zielona Góra
+Zgorzelec
+Marki
+Zgierz
+Wo³omin
+Krosno
+Nowa Sól
+Jaworzno
+Przemyœl
+Koœcierzyna
+Czechowice-Dziedzice
+M³awa
+Sandomierz
+Bêdzin
+Tarnowskie Góry
+Sandomierz
+Chojnice
+Konin
+Lubartów
+Przemyœl
+Œwiêtoch³owice
+Knurów
+Zawiercie
+Jas³o
+Tczew
+Krotoszyn
+Czechowice-Dziedzice
+Ostrowiec Œwiêtokrzyski
+Kluczbork
+Bartoszyce
+Bia³a Podlaska
+Z¹bki
+Wodzis³aw Œl¹ski
+Ostro³êka
+Bielawa
+S³upsk
+Ostróda
+Katowice
+D¹browa Górnicza
+Skawina
+Starachowice
+Zduñska Wola
+Z¹bki
+Kutno
+Dêbica
+Olsztyn
+Ciechanów
+Czerwionka-Leszczyny
+Grodzisk Mazowiecki
+Radomsko
+Gniezno
+Kraków
+Malbork
+Œwinoujœcie
+Wrzeœnia
+Dêbica
+Marki
+E³k
+Otwock
+Grodzisk Mazowiecki
+Jaworzno
+Jaros³aw
+G³ogów
+Polkowice
+Oleœnica
+Pu³awy
+Œwiêtoch³owice
+Sochaczew
+Grodzisk Mazowiecki
+Sochaczew
+Lêbork
+Tczew
+O³awa
+Szczytno
+Nysa
+Œwidnik
+Gorlice
+Pszczyna
+Grodzisk Mazowiecki
+Stalowa Wola
+Szczecinek
+Ko³o
+Tarnów
+Pruszcz Gdañski
+Myszków
+Olkusz
+Gorlice
+Gniezno
+Sochaczew
+Rybnik
+Tychy
+Olsztyn
+K³odzko
+CzeladŸ
+Tarnowskie Góry
+¯yrardów
+Grudzi¹dz
+Jelenia Góra
+G³ogów
+£om¿a
+¯yrardów
+Ostrowiec Œwiêtokrzyski
+Stargard Szczeciñski
+Ostrowiec Œwiêtokrzyski
+Bielsko-Bia³a
+Kraków
+Tarnobrzeg
+Siedlce
+Szczecin
+Sopot
+Starachowice
+Augustów
+Gdañsk
+Tczew
+Che³m
+Kutno
+¯ary
+Jas³o
+I³awa
+Tarnobrzeg
+Rzeszów
+Augustów
+Goleniów
+Inowroc³aw
+Bochnia
+Elbl¹g
+Augustów
+Ostrów Wielkopolski
+Jaworzno
+Ruda Œl¹ska
+Chojnice
+D¹browa Górnicza
+Stargard Szczeciñski
+Kielce
+Inowroc³aw
+Goleniów
+Œwidnik
+Knurów
+Marki
+Pabianice
+Polkowice
+Kraœnik
+Kraków
+£aziska Górne
+Toruñ
+Gliwice
+Jelenia Góra
+D¹browa Górnicza
+Boles³awiec
+Lubin
+Œwidnik
+Œwiêtoch³owice
+W¹growiec
+Piaseczno
+Zabrze
+¯ary
+Kielce
+Bartoszyce
+Œwidnica
+Turek
+Stargard Szczeciñski
+Olsztyn
+Lêbork
+Pruszcz Gdañski
+Wroc³aw
+Tczew
+M³awa
+Wejherowo
+Zduñska Wola
+Tomaszów Mazowiecki
+Myszków
+Szczytno
+Skar¿ysko-Kamienna
+Bytom
+Zgorzelec
+Zgorzelec
+Sandomierz
+£om¿a
+Grodzisk Mazowiecki
+Polkowice
+Swarzêdz
+Radom
+E³k
+£ódŸ
+Gdañsk
+Konin
+Œroda Wielkopolska
+Czêstochowa
+Augustów
+Olkusz
+Jaros³aw
+Nowy S¹cz
+Konin
+Siemianowice Œl¹skie
+Ostro³êka
+Œroda Wielkopolska
+Wejherowo
+Koœcian
+Wodzis³aw Œl¹ski
+Piastów
+Kêtrzyn
+G³ogów
+Starogard Gdañski
+Bia³a Podlaska
+Jas³o
+P³ock
+Marki
+Tczew
+Bi³goraj
+Miko³ów
+Zawiercie
+Gorzów Wielkopolski
+Zabrze
+Kluczbork
+Dzier¿oniów
+Nowy S¹cz
+Inowroc³aw
+Dzier¿oniów
+Gorzów Wielkopolski
+W¹growiec
+Augustów
+Swarzêdz
+Chorzów
+Nysa
+Luboñ
+£aziska Górne
+Lubliniec
+Dzier¿oniów
+Bi³goraj
+Myszków
+Lubartów
+Tychy
+Wodzis³aw Œl¹ski
+Œwiecie
+Bia³a Podlaska
+Grodzisk Mazowiecki
+Kraœnik
+Kêtrzyn
+Ruda Œl¹ska
+W³oc³awek
+Wodzis³aw Œl¹ski
+M³awa
+Pabianice
+Bia³a Podlaska
+Bytom
+Pabianice
+Turek
+Oœwiêcim
+Tomaszów Mazowiecki
+Piaseczno
+Wroc³aw
+K³odzko
+Opole
+Koœcian
+Nowy S¹cz
+Zakopane
+Sopot
+¯yrardów
+Nowy Targ
+Brodnica
+Miko³ów
+Reda
+¯yrardów
+Gdañsk
+Wo³omin
+Grudzi¹dz
+Kraków
+Polkowice
+¯ary
+P³ock
+Zawiercie
+Jarocin
+Wodzis³aw Œl¹ski
+Be³chatów
+Konin
+Bielsko-Bia³a
+W³oc³awek
+Koœcierzyna
+Gniezno
+Chorzów
+Tomaszów Mazowiecki
+Siedlce
+Wejherowo
+Inowroc³aw
+Kêtrzyn
+Zamoœæ
+Pu³awy
+Brodnica
+Œwidnik
+Sopot
+Czerwionka-Leszczyny
+Skierniewice
+Wa³brzych
+Zduñska Wola
+Koœcierzyna
+Jelenia Góra
+£om¿a
+I³awa
+Nowa Ruda
+Marki
+Rybnik
+Piotrków Trybunalski
+Racibórz
+Ostróda
+Goleniów
+Pruszków
+Piotrków Trybunalski
+G³ogów
+Brzeg
+Bartoszyce
+Bochnia
+Czêstochowa
+Ko³o
+Tychy
+Piaseczno
+Knurów
+Sochaczew
+Skierniewice
+Myszków
+Pruszcz Gdañski
+Boles³awiec
+Nowy Dwór Mazowiecki
+Œwidnica
+Miñsk Mazowiecki
+Konin
+Zgierz
+Ostrów Wielkopolski
+Wodzis³aw Œl¹ski
+Malbork
+E³k
+Miñsk Mazowiecki
+Bia³ogard
+Ruda Œl¹ska
+Olkusz
+Katowice
+Pruszcz Gdañski
+Miko³ów
+Ostrowiec Œwiêtokrzyski
+CzeladŸ
+Oœwiêcim
+Stargard Szczeciñski
+Sieradz
+Bia³a Podlaska
+Zgorzelec
+Lêbork
+Zduñska Wola
+CzeladŸ
+Be³chatów
+G³ogów
+Sanok
+Grudzi¹dz
+Bia³ogard
+I³awa
+Koœcierzyna
+Ostrów Mazowiecka
+Marki
+Starogard Gdañski
+Gi¿ycko
+Wieluñ
+Nowa Sól
+Nowa Ruda
+¯agañ
+Œwidnik
+Przemyœl
+Che³m
+Zgierz
+Ostrowiec Œwiêtokrzyski
+Œwidnik
+Boles³awiec
+Bia³ogard
+Marki
+¯yrardów
+Nowy Targ
+Zgierz
+Kraków
+Œroda Wielkopolska
+Rzeszów
+Bia³a Podlaska
+Bia³a Podlaska
+Ostrowiec Œwiêtokrzyski
+Bêdzin
+Brodnica
+Chorzów
+Zambrów
+Rzeszów
+Wyszków
+Piekary Œl¹skie
+Wejherowo
+Sieradz
+Kraœnik
+Krotoszyn
+Bielsk Podlaski
+Szczecinek
+Rybnik
+Kutno
+Jas³o
+Czêstochowa
+Tarnowskie Góry
+Jas³o
+Lêbork
+Bia³ystok
+Zakopane
+D¹browa Górnicza
+Bytom
+Wo³omin
+G³ogów
+Chojnice
+Reda
+Nowy S¹cz
+Szczytno
+Jaworzno
+Pu³awy
+Luboñ
+Ostrów Wielkopolski
+Ostro³êka
+Gdynia
+Ostrów Wielkopolski
+Chrzanów
+Bia³ogard
+Krotoszyn
+Sandomierz
+Ko³obrzeg
+Toruñ
+Szczecin
+Legnica
+Rybnik
+Brzeg
+Opole
+Brodnica
+Bielawa
+Turek
+Kalisz
+Wejherowo
+Wieluñ
+Zduñska Wola
+Legnica
+£ódŸ
+Rumia
+Starogard Gdañski
+Œwidnik
+Rzeszów
+Lubin
+Nowa Sól
+Ostro³êka
+Tomaszów Mazowiecki
+E³k
+Skierniewice
+Jaworzno
+¯yrardów
+Bi³goraj
+Jawor
+Bochnia
+Zawiercie
+Jawor
+Chrzanów
+Nowy S¹cz
+Piastów
+Olsztyn
+Koœcierzyna
+Œwiêtoch³owice
+Gdynia
+Wo³omin
+Bielsko-Bia³a
+Œwinoujœcie
+Gdañsk
+Jaworzno
+CzeladŸ
+Œwiecie
+£aziska Górne
+Luboñ
+Grodzisk Mazowiecki
+£owicz
+Nowa Ruda
+S³upsk
+Boles³awiec
+Ostrowiec Œwiêtokrzyski
+Ostrów Mazowiecka
+Lêbork
+Tczew
+Czêstochowa
+I³awa
+Boles³awiec
+Koœcierzyna
+Gi¿ycko
+Goleniów
+Konin
+Jarocin
+£om¿a
+Lublin
+Kraœnik
+Jawor
+Kalisz
+Sandomierz
+Zgorzelec
+Czerwionka-Leszczyny
+Grudzi¹dz
+Tarnowskie Góry
+Leszno
+Ostrów Wielkopolski
+£om¿a
+Nysa
+Pu³awy
+£ódŸ
+Malbork
+Koszalin
+Wejherowo
+Bia³a Podlaska
+Kalisz
+Gniezno
+Olsztyn
+Nysa
+Ostróda
+Brzeg
+Nowy S¹cz
+Miko³ów
+Jelenia Góra
+Starogard Gdañski
+Myszków
+Kutno
+Wyszków
+Kraków
+Stalowa Wola
+Z¹bki
+Kutno
+Lublin
+Rybnik
+E³k
+Zgierz
+Grudzi¹dz
+Tomaszów Mazowiecki
+S³upsk
+Ostrowiec Œwiêtokrzyski
+Zamoœæ
+Rybnik
+Krosno
+Bydgoszcz
+Szczytno
+Dzier¿oniów
+Œwiêtoch³owice
+W³oc³awek
+Jas³o
+Polkowice
+Be³chatów
+¯agañ
+Zduñska Wola
+Brodnica
+Szczytno
+Bia³ystok
+Tychy
+Wyszków
+M³awa
+Knurów
+Radom
+P³ock
+Katowice
+Grodzisk Mazowiecki
+Ostro³êka
+Toruñ
+Pabianice
+Elbl¹g
+Kraœnik
+£aziska Górne
+Nowa Ruda
+Zambrów
+Che³m
+W³oc³awek
+Jaworzno
+Polkowice
+Jas³o
+Bielawa
+Pu³awy
+Poznañ
+Œroda Wielkopolska
 Bêdzin
 Zakopane
-E³k
-Chojnice
-Bia³ystok
-Pabianice
-Ruda Œl¹ska
-Wyszków
-Zabrze
-Wodzis³aw Œl¹ski
-Wo³omin
-Pruszków
-Gorlice
-Z¹bki
-Kraœnik
-Lublin
-Dêbica
-Tomaszów Mazowiecki
-Czechowice-Dziedzice
-Kraœnik
-Zielona Góra
-Kêdzierzyn-KoŸle
-Wieluñ
-Pruszcz Gdañski
-Nowy Dwór Mazowiecki
-Bartoszyce
-Tczew
-Zgorzelec
-Jarocin
-Nowa Ruda
-Zgierz
-Przemyœl
 Brodnica
-W¹growiec
-Mys³owice
-Ciechanów
-Wo³omin
-Tarnobrzeg
-Ostrowiec Œwiêtokrzyski
-Koszalin
-Pruszcz Gdañski
-Zawiercie
-Elbl¹g
-Koszalin
-Radomsko
-Ostrów Wielkopolski
-Ostrowiec Œwiêtokrzyski
-¯ary
-Cieszyn
-Œwiebodzice
-Starogard Gdañski
-Chorzów
 Chojnice
-Œwiecie
-Tomaszów Mazowiecki
-¯ary
-W³oc³awek
+Kêdzierzyn-KoŸle
 Lubartów
-D¹browa Górnicza
-I³awa
-£uków
-Zamoœæ
-Œrem
-Reda
-Wroc³aw
-Jastrzêbie-Zdrój
-Miko³ów
-Œwiêtoch³owice
-Starogard Gdañski
-Pabianice
-Pszczyna
-Pabianice
-¯agañ
-Zgorzelec
-Gniezno
-Lubliniec
-Mys³owice
-¯ory
-W¹growiec
-Turek
-Wodzis³aw Œl¹ski
-Suwa³ki
-Wodzis³aw Œl¹ski
-M³awa
-Knurów
-Œwiêtoch³owice
-Kwidzyn
-£uków
-Kraków
-Pi³a
-Brzeg
-Zawiercie
-Lubliniec
-Zamoœæ
-Bochnia
-Tarnobrzeg
-Czêstochowa
-Jaros³aw
-Bi³goraj
-Przemyœl
-Be³chatów
-Œwiecie
-Sopot
-Polkowice
-Knurów
-Piekary Œl¹skie
-Ruda Œl¹ska
-Gi¿ycko
-Katowice
-Opole
-Otwock
-Wejherowo
-Wieluñ
-Jastrzêbie-Zdrój
-Kraków
-Myszków
-Œwidnica
-P³oñsk
-Opole
-¯ary
-Wrzeœnia
-Grudzi¹dz
-Katowice
-Bartoszyce
-Dêbica
-Nowa Ruda
-Pu³awy
-Koszalin
-Ostróda
-Pruszcz Gdañski
-Jaworzno
-Olkusz
-Lublin
-Chrzanów
-Sosnowiec
-Oleœnica
-Otwock
-Reda
-Wo³omin
-Sosnowiec
-Bydgoszcz
-Ostróda
-E³k
-Z¹bki
-Piotrków Trybunalski
-D¹browa Górnicza
-Pi³a
-Czechowice-Dziedzice
-CzeladŸ
-Toruñ
-CzeladŸ
-Piotrków Trybunalski
-Siedlce
-Luboñ
-W³oc³awek
-Nowa Ruda
-Oleœnica
-Skawina
-Nowa Sól
-Zabrze
-Wyszków
-Czechowice-Dziedzice
-Legionowo
-Kwidzyn
-Tarnobrzeg
-Konin
-Œwiebodzice
-Jawor
-Sochaczew
-Zgierz
-Pabianice
-Sosnowiec
-Nysa
-Sosnowiec
-Wieluñ
-Kalisz
-Zielona Góra
-Warszawa
-Nowa Ruda
-W¹growiec
-£om¿a
-Œwidnik
-Miko³ów
-Czerwionka-Leszczyny
-Miko³ów
-Legionowo
-Miñsk Mazowiecki
-Be³chatów
-Ostrowiec Œwiêtokrzyski
-Bielsk Podlaski
-Gorlice
-Lubin
-W¹growiec
-Krotoszyn
-Gorlice
-Skawina
-Bi³goraj
-Jawor
-O³awa
-Bartoszyce
-Zgorzelec
-Bytom
-Zduñska Wola
-Œwinoujœcie
-Krotoszyn
-Œrem
-Koœcian
-Ciechanów
-M³awa
-Sandomierz
-Lêbork
-Pruszków
-Kluczbork
-Che³m
-Leszno
-Miñsk Mazowiecki
-Pu³awy
-Grudzi¹dz
-Mielec
-Gdañsk
-Lublin
-Ostróda
-Tarnowskie Góry
-Olsztyn
 Wa³brzych
-Ostro³êka
-Kêdzierzyn-KoŸle
-Jawor
-D¹browa Górnicza
-Gdañsk
-Tarnobrzeg
-Wa³cz
-O³awa
-Ruda Œl¹ska
-Jawor
-Luboñ
-Ruda Œl¹ska
-Dêbica
-Koœcierzyna
-Piotrków Trybunalski
-Zambrów
-Zawiercie
-Kêdzierzyn-KoŸle
-¯agañ
-Lublin
-Brzeg
-Kwidzyn
-Krotoszyn
-W³oc³awek
-Z¹bki
-Kraœnik
-Reda
-Pruszcz Gdañski
-Nowy S¹cz
-Nowa Ruda
-¯ary
-P³ock
-Zabrze
-Ostro³êka
-Oœwiêcim
-Koœcian
-¯yrardów
-Piekary Œl¹skie
-Sanok
-Wo³omin
-Tychy
+Chorzów
 Boles³awiec
-Radomsko
-Bartoszyce
-K³odzko
-W³oc³awek
-Zielona Góra
-Zambrów
-Wodzis³aw Œl¹ski
-Koœcian
-Oœwiêcim
-Pszczyna
-Brodnica
-Police
-Chojnice
-Zgorzelec
-Gdañsk
-Rzeszów
-Gliwice
-Bielsko-Bia³a
-Gliwice
-Kielce
-Konin
-Sochaczew
-Elbl¹g
-Œwiecie
-Che³m
-Inowroc³aw
-Œwidnica
-Czêstochowa
-Kutno
-Œwidnica
-Be³chatów
-Piekary Œl¹skie
-Bielsko-Bia³a
-Swarzêdz
-Pszczyna
-Zabrze
-Lubliniec
-Skawina
-Lublin
-Bia³a Podlaska
-Sochaczew
-Starogard Gdañski
-Oœwiêcim
-Pruszków
-Tychy
-Jawor
-£uków
-Ostrów Mazowiecka
-Gorzów Wielkopolski
-Rybnik
-K³odzko
-Oleœnica
-P³oñsk
-Zawiercie
-Czerwionka-Leszczyny
-Skar¿ysko-Kamienna
-Radomsko
-Mielec
-Rumia
-Bielsko-Bia³a
-Krosno
-¯ywiec
-Sosnowiec
-Koœcian
-Oleœnica
-M³awa
-Dêbica
-Miñsk Mazowiecki
-¯agañ
-Kêdzierzyn-KoŸle
-Bia³a Podlaska
-Be³chatów
-Wieluñ
-£uków
-Bytom
-E³k
-Legionowo
 Leszno
 Chorzów
-Chrzanów
+Czerwionka-Leszczyny
 Nowy S¹cz
-Œrem
-Wyszków
-Leszno
-Lublin
-Siedlce
-Myszków
-Lubartów
-Che³m
-¯ywiec
-Mielec
-Gi¿ycko
-Olsztyn
-Wrzeœnia
-Gi¿ycko
+Marki
+Pu³awy
 Gliwice
-Ostrów Wielkopolski
-¯agañ
-Kielce
-Gorlice
-Piaseczno
-Siedlce
-Bi³goraj
-Wa³brzych
-Gdynia
-Goleniów
-Zduñska Wola
-Lubin
-Zgorzelec
-CzeladŸ
-£om¿a
-Leszno
-Bytom
-Bydgoszcz
-Bielawa
-Tomaszów Mazowiecki
-S³upsk
-Pruszcz Gdañski
-Kraœnik
-Sochaczew
-Olkusz
-Wa³cz
-Kielce
-Sandomierz
-Zamoœæ
-Cieszyn
 Szczecin
-Polkowice
+Goleniów
+Kutno
+Kêtrzyn
+Sopot
+Piekary Œl¹skie
+Inowroc³aw
 Boles³awiec
-Ostrów Wielkopolski
-Rybnik
-Oleœnica
-Brzeg
-Wo³omin
-P³oñsk
-Kraœnik
-Zabrze
-Nysa
-Czerwionka-Leszczyny
-Sandomierz
-Skawina
-Dêbica
-Piekary Œl¹skie
-S³upsk
-Jastrzêbie-Zdrój
-Lublin
-Bia³a Podlaska
-Pabianice
-W¹growiec
-Bydgoszcz
-Lublin
-D¹browa Górnicza
-Starogard Gdañski
-Racibórz
-Œwinoujœcie
-Marki
-Opole
-Zgorzelec
-Legnica
-W³oc³awek
-Siedlce
-Ostrowiec Œwiêtokrzyski
-O³awa
-Jarocin
-Ostróda
-Zamoœæ
-Tarnobrzeg
-Nowa Ruda
-Wyszków
-Starachowice
-Bi³goraj
-Czêstochowa
-K³odzko
-Krotoszyn
-Pu³awy
-Koœcian
-Kwidzyn
-Rybnik
-Myszków
-Ciechanów
-Bia³a Podlaska
-Œrem
-Marki
-Gdañsk
-Dêbica
-Legionowo
-Zambrów
-Tomaszów Mazowiecki
-Koszalin
-Cieszyn
-Tarnowskie Góry
-Zgierz
-Konin
-Bielsk Podlaski
-Grudzi¹dz
-Jaworzno
-Lubin
-Bielsko-Bia³a
-Œwidnik
-Bia³a Podlaska
-Zgorzelec
-¯agañ
-Grudzi¹dz
-Ostrów Mazowiecka
-Stargard Szczeciñski
-Czêstochowa
-Pszczyna
-Œwidnica
-Lubin
-Jastrzêbie-Zdrój
-CzeladŸ
+Jawor
+E³k
 Mielec
-Radom
-Piekary Œl¹skie
-D¹browa Górnicza
-Wo³omin
-Pruszcz Gdañski
+Œwiecie
+CzeladŸ
+Mys³owice
+Sandomierz
+Koœcierzyna
+Otwock
+Ruda Œl¹ska
+Olsztyn
 Nowy Targ
-Starogard Gdañski
-Jelenia Góra
-M³awa
-Radomsko
-Reda
+Kraków
+Bielawa
+Tczew
 Brodnica
-Olsztyn
-Œrem
-Wyszków
-Ostróda
-Dêbica
+W³oc³awek
+Zielona Góra
+CzeladŸ
+Siemianowice Œl¹skie
+Zakopane
+Gdynia
+Szczecin
+Oleœnica
+Bielsk Podlaski
+Nowy S¹cz
+¯ywiec
+Jas³o
+Luboñ
+Mys³owice
+Swarzêdz
+Ciechanów
+W³oc³awek
+Kielce
+Chorzów
+£aziska Górne
+Nowy S¹cz
+Boles³awiec
+Che³m
+Poznañ
+Nowy Dwór Mazowiecki
+Katowice
+Bia³a Podlaska
+M³awa
+Siedlce
+Œwiecie
+Tarnobrzeg
+Piekary Œl¹skie
+Bydgoszcz
+Starogard Gdañski
+Bielsk Podlaski
+Szczytno
+Poznañ
+Mielec
+Wieluñ
+Elbl¹g
+Bydgoszcz
+Kluczbork
+Kwidzyn
+Dzier¿oniów
+Bia³ogard
+Koœcierzyna
+Wieluñ
+Lubartów
+Czechowice-Dziedzice
+Szczecin
+£aziska Górne
+Polkowice
+Ruda Œl¹ska
+Tychy
+Opole
+Ostrowiec Œwiêtokrzyski
+Wrzeœnia
+Œwidnik
+Grodzisk Mazowiecki
+Czechowice-Dziedzice
+Œwiêtoch³owice
+Wieluñ
+Jawor
+Œwiecie
+Swarzêdz
+Pi³a
 ¯agañ
-Olsztyn
+Opole
+W³oc³awek
+Zakopane
+Pi³a
+Lubin
+Tarnobrzeg
+Piekary Œl¹skie
+Gliwice
+Jaros³aw
+Lubliniec
+Wodzis³aw Œl¹ski
+Katowice
+Che³m
+Œwidnica
+Wa³brzych
+Szczecin
+Lêbork
+Bielsk Podlaski
+Œwiecie
+Jaworzno
+Piaseczno
+Nysa
+Elbl¹g
+Wrzeœnia
+Piekary Œl¹skie
+Kwidzyn
+Cieszyn
+Koœcian
+Szczytno
+Bydgoszcz
+Sanok
+Be³chatów
+Be³chatów
+Jarocin
+Krosno
+Szczytno
+Pu³awy
+Bielsk Podlaski
+Szczecinek
+Rzeszów
+Chojnice
+Ostrowiec Œwiêtokrzyski
+Tomaszów Mazowiecki
+Rybnik
+Koœcierzyna
+Œwiecie
 O³awa
-Nowa Sól
+£uków
+Legionowo
+Boles³awiec
+Bia³a Podlaska
+Gniezno
+Brodnica
+Sosnowiec
+Jas³o
+Goleniów
+Leszno
+Brodnica
+Tarnowskie Góry
+Ciechanów
+Pruszcz Gdañski
+¯ary
+Ostrów Wielkopolski
+Bielawa
+Œwiecie
+Kutno
+Racibórz
+Gliwice
+Reda
+Miñsk Mazowiecki
+Miñsk Mazowiecki
+Wo³omin
+Ostro³êka
+Pruszków
+Bielsko-Bia³a
+P³ock
+Jas³o
+Bia³ogard
+Bia³a Podlaska
+Bytom
+Przemyœl
+P³ock
+P³ock
+O³awa
+Gniezno
+Œwidnik
+Jelenia Góra
+Szczecin
+Gorlice
+¯ary
+Warszawa
+Miko³ów
+Jaworzno
+Ciechanów
+Ostrów Wielkopolski
+Jawor
+Sochaczew
+Wroc³aw
+Luboñ
+Krosno
+Szczytno
+Olkusz
+Koszalin
+Jas³o
+Bia³ystok
+Zgierz
+Przemyœl
+Ostrów Mazowiecka
+Nowy Targ
+Police
+M³awa
+Olsztyn
+Bytom
+Bochnia
+Zabrze
+Sieradz
+Pu³awy
+Turek
+Skierniewice
+Nowa Ruda
+Radomsko
+Gdynia
+Polkowice
+Œrem
+Ostrów Wielkopolski
+Cieszyn
+Ostrów Wielkopolski
+W¹growiec
+Sanok
+Ostróda
+M³awa
+Sochaczew
+¯ary
+£owicz
+Pruszcz Gdañski
+Sieradz
+£aziska Górne
+G³ogów
+Rzeszów
+Zabrze
+Zamoœæ
+Otwock
+Wejherowo
+Pszczyna
+Jas³o
+Kielce
+£om¿a
+Brzeg
+Radomsko
+Grodzisk Mazowiecki
+Be³chatów
+Szczytno
+Sieradz
+Rybnik
+Mielec
+Czêstochowa
+Piaseczno
+Legionowo
+Oleœnica
+Wrzeœnia
+O³awa
+Kalisz
+Kielce
+¯yrardów
+Bia³ogard
+Pu³awy
+Brzeg
+Legnica
+Ostróda
+Œwiebodzice
+Czechowice-Dziedzice
+Brzeg
+Piaseczno
+Jelenia Góra
+Pi³a
+£uków
+Otwock
+¯yrardów
+Jarocin
+Bia³a Podlaska
+Kutno
+Chojnice
+Czêstochowa
+Zduñska Wola
+Marki
+Radom
+¯agañ
 Skar¿ysko-Kamienna
+Pruszcz Gdañski
+Gi¿ycko
+Katowice
+£owicz
+D¹browa Górnicza
+Ostrowiec Œwiêtokrzyski
+Czêstochowa
+Czerwionka-Leszczyny
+Bartoszyce
+Gorzów Wielkopolski
+Siedlce
+Ostrów Mazowiecka
+Ruda Œl¹ska
+Sieradz
+Grudzi¹dz
+Tarnowskie Góry
+Pruszcz Gdañski
+Szczecinek
+Dêbica
+G³ogów
+Szczytno
+Piaseczno
+Mielec
+Toruñ
+Œrem
+Zambrów
+¯ory
+Lêbork
+Jawor
+Kraków
+Otwock
+Szczecin
+Bielawa
+Œwidnik
+Bia³a Podlaska
+Kêtrzyn
+Kutno
+Pszczyna
+Skar¿ysko-Kamienna
+Pu³awy
+Bi³goraj
+Wo³omin
+Oleœnica
+Rybnik
+Legnica
+Brzeg
+£aziska Górne
+Piekary Œl¹skie
+Kraków
+Stargard Szczeciñski
+Ostrów Wielkopolski
+Chrzanów
+Marki
+Olkusz
+Nysa
+Bia³a Podlaska
+Wroc³aw
+Stargard Szczeciñski
+Zamoœæ
+Radomsko
+¯yrardów
+Ko³o
+£owicz
+Suwa³ki
+Olkusz
+Jaworzno
+Zduñska Wola
+Marki
+Augustów
+Rumia
 G³ogów
 Radom
-Kielce
-Wrzeœnia
-Gorzów Wielkopolski
-Siedlce
-Rybnik
-Pu³awy
-Kraków
-¯yrardów
-Jas³o
-Malbork
-¯ory
-Szczecin
-¯agañ
-Warszawa
-¯ywiec
-Gorlice
-Gdynia
-Siemianowice Œl¹skie
-Rybnik
-Piotrków Trybunalski
-Nowy S¹cz
-Zielona Góra
-Kwidzyn
-Jawor
-Be³chatów
-Zabrze
-Z¹bki
-Mys³owice
-G³ogów
-Ciechanów
+Starachowice
 Chorzów
-Olsztyn
-Czechowice-Dziedzice
-Czechowice-Dziedzice
-Piekary Œl¹skie
-Tarnobrzeg
-Œroda Wielkopolska
-Bytom
-Legnica
-Legionowo
-Sandomierz
-Cieszyn
-Tarnów
-Bydgoszcz
-W¹growiec
-Œrem
-¯ory
-Polkowice
-Ostróda
-Be³chatów
-Goleniów
-Inowroc³aw
-¯agañ
-Konin
-Olkusz
-Zduñska Wola
-Nowy S¹cz
-Nysa
-Rumia
-Œwidnica
-K³odzko
-Luboñ
-Zawiercie
-Ostrów Wielkopolski
-Chojnice
-Pruszków
-Wejherowo
-Starogard Gdañski
-Radomsko
-Krosno
-Knurów
-Lubliniec
-Rumia
-Lubin
-Siedlce
-Gdynia
-Sandomierz
-Chojnice
-Brzeg
-Zabrze
-Rumia
-Ostróda
-Ostro³êka
-Zgorzelec
-Zielona Góra
-Sopot
-Ko³obrzeg
-Zawiercie
-Rumia
-Wyszków
-Be³chatów
-Dêbica
-Gorzów Wielkopolski
-Inowroc³aw
-Be³chatów
-Ostróda
-Piastów
+£ódŸ
+Jaworzno
+Kwidzyn
+Tarnowskie Góry
 Zakopane
-Nowy Dwór Mazowiecki
-Ruda Œl¹ska
-Gniezno
-Siedlce
-Lubin
-Mys³owice
-Lêbork
-Rumia
-Suwa³ki
-Bia³ystok
-Zawiercie
-Kêdzierzyn-KoŸle
-P³oñsk
-Olkusz
-Krotoszyn
-Œwiêtoch³owice
-Sochaczew
-Krotoszyn
-Gdynia
-Wa³brzych
-Kielce
-Zawiercie
-¯ary
-Pruszcz Gdañski
-Che³m
-Nowa Sól
-Nowa Sól
-Starachowice
-Ostro³êka
-Zgierz
-Œwidnik
-¯agañ
-Kielce
-Jas³o
-Bielawa
-Z¹bki
-Lublin
-Pszczyna
-Kielce
-Ruda Œl¹ska
-Pu³awy
-Malbork
-Sopot
-Lubartów
-Œroda Wielkopolska
-Koœcierzyna
-Kalisz
-Pszczyna
-Legnica
 Gliwice
-Miko³ów
-Piekary Œl¹skie
-Skierniewice
-Wodzis³aw Œl¹ski
-Œwiêtoch³owice
-Czêstochowa
-Goleniów
-Pruszków
-Bartoszyce
-Pi³a
-Sosnowiec
-Bielawa
-Przemyœl
-Sopot
-Lubartów
-Kielce
-Malbork
-Ostrów Wielkopolski
-Gliwice
-Pszczyna
-Be³chatów
-Sanok
-Œwidnica
-Mys³owice
-Bielawa
-Lublin
-Polkowice
-£owicz
-Piastów
-Koœcian
-Tarnowskie Góry
-Cieszyn
-Myszków
-Nysa
+Piaseczno
+Zamoœæ
+Zielona Góra
+Kraœnik
+Ko³obrzeg
+Gorlice
 Oleœnica
-Inowroc³aw
-Inowroc³aw
-Sandomierz
-Bielsk Podlaski
-Piekary Œl¹skie
-Katowice
-Tarnowskie Góry
-Legionowo
-Legionowo
-¯ywiec
-£owicz
-Ostrowiec Œwiêtokrzyski
-£owicz
-Œroda Wielkopolska
-Rumia
-Swarzêdz
-Wyszków
-Pi³a
-Radomsko
-Legnica
-Wejherowo
-Zamoœæ
-Bielawa
-Oœwiêcim
-Tarnobrzeg
-Kutno
-Nowa Sól
-Luboñ
-Myszków
-Starachowice
-Zamoœæ
-P³ock
-Z¹bki
-Lubartów
-Tomaszów Mazowiecki
 Œwinoujœcie
-Gniezno
-Koœcierzyna
-Nysa
-Zgorzelec
-Tarnowskie Góry
-Legnica
-Nowy S¹cz
-Kraków
-Piotrków Trybunalski
-Stargard Szczeciñski
-Starogard Gdañski
-¯ory
-Kêdzierzyn-KoŸle
-Bydgoszcz
-P³ock
-Lêbork
-Swarzêdz
-Jaros³aw
-Chrzanów
-Bartoszyce
-Kutno
-Ostrów Mazowiecka
-Gi¿ycko
-Jaros³aw
-Radomsko
-Bielsk Podlaski
-Katowice
-Mielec
-Pabianice
-Bia³a Podlaska
-Brodnica
-Chrzanów
-Œwiêtoch³owice
-Kielce
-Legnica
+Nowa Ruda
+Kwidzyn
+Jelenia Góra
+Sanok
+Skawina
+£aziska Górne
 Zabrze
-Siedlce
-Poznañ
-Sopot
-Gdynia
-Jawor
-Czerwionka-Leszczyny
-Tychy
-Oœwiêcim
-Nowa Sól
-Koœcian
-Gdynia
-Knurów
-Ostrów Wielkopolski
-Nowy S¹cz
-Nowy Dwór Mazowiecki
-Bochnia
-Police
+Nysa
+¯ory
+Sandomierz
+£om¿a
+Szczytno
+Skar¿ysko-Kamienna
+Katowice
+Pi³a
+Pabianice
+Mys³owice
 Reda
-Koœcian
-¯ary
+Wieluñ
+Ostrów Wielkopolski
+£uków
+Poznañ
+Œroda Wielkopolska
+Wo³omin
+Wejherowo
+Legnica
+Skierniewice
+Pruszcz Gdañski
+Wodzis³aw Œl¹ski
+Ruda Œl¹ska
+Elbl¹g
+W³oc³awek
+Chojnice
+Myszków
+Stalowa Wola
+P³oñsk
+Boles³awiec
+Tomaszów Mazowiecki
+Sosnowiec
+Lubliniec
+Kraœnik
+Lubliniec
+Œroda Wielkopolska
+Wejherowo
+Gi¿ycko
+Knurów
+Warszawa
+Zamoœæ
+Starachowice
+Malbork
+Grodzisk Mazowiecki
 Tarnobrzeg
-Zambrów
+Pi³a
+W¹growiec
+Bartoszyce
+Rybnik
+Ostrów Mazowiecka
+Sosnowiec
+Olkusz
+Wo³omin
+Otwock
+Œroda Wielkopolska
+Ko³o
+Otwock
+Ko³o
+Miñsk Mazowiecki
+Ostrowiec Œwiêtokrzyski
+Wa³cz
+Szczytno
+Knurów
+Sieradz
+Wodzis³aw Œl¹ski
+Ostrów Wielkopolski
+Swarzêdz
+Inowroc³aw
+Gliwice
+Miñsk Mazowiecki
+Bia³a Podlaska
+Toruñ
+Œwiebodzice
+Oleœnica
+Swarzêdz
+Pszczyna
+D¹browa Górnicza
+E³k
+Siedlce
+Koszalin
+Bia³ogard
+D¹browa Górnicza
+W¹growiec
+¯ywiec
+W³oc³awek
+P³oñsk
+Bielsk Podlaski
+Kielce
+Zawiercie
+Jelenia Góra
+Œwidnik
+Œwidnik
+I³awa
+Koœcian
+Nysa
+Wieluñ
+Wa³brzych
+Bartoszyce
+Dzier¿oniów
+Sieradz
+Opole
+Wa³brzych
+Lubartów
+Bielawa
+Jawor
+Suwa³ki
+Tarnobrzeg
+Kwidzyn
+Zakopane
+£ódŸ
+Tczew
+Rzeszów
+Bi³goraj
+Miko³ów
+Gorlice
+Nowy S¹cz
+Tarnobrzeg
+Tomaszów Mazowiecki
+Konin
+Kraków
+Skar¿ysko-Kamienna
+Kêtrzyn
+Luboñ
+I³awa
+Legnica
+Lêbork
+Czechowice-Dziedzice
+Piekary Œl¹skie
+Wejherowo
+Kêdzierzyn-KoŸle
+Zawiercie
+¯yrardów
+Koszalin
+Chrzanów
+Siemianowice Œl¹skie
+Tarnobrzeg
+Myszków
+Wo³omin
+Jastrzêbie-Zdrój
+Gliwice
+Augustów
+Starogard Gdañski
+W¹growiec
+Gi¿ycko
+Sochaczew
+Brodnica
+Bia³ystok
+¯yrardów
+Sopot
+Olkusz
+Kluczbork
+Ko³o
+G³ogów
+Szczytno
+Œrem
+Marki
+Miko³ów
+Lubartów
+Kêdzierzyn-KoŸle
+Skierniewice
+Warszawa
+Luboñ
+Jaworzno
+Sochaczew
+P³ock
+Zgierz
+Opole
+Marki
+Mielec
+Wieluñ
+Nowa Ruda
+Pi³a
+Skawina
+Bi³goraj
+Luboñ
+Kêdzierzyn-KoŸle
+Starogard Gdañski
+Siedlce
+Gorzów Wielkopolski
+Suwa³ki
+Gliwice
+Rybnik
+Nowy Targ
+Marki
+Szczecinek
+Starachowice
+£om¿a
+Œwidnica
+Warszawa
+Kraków
+Sosnowiec
+Marki
+Jelenia Góra
+Bielsko-Bia³a
+Konin
+Lublin
+Mielec
+Tarnobrzeg
+Ostro³êka
+Nowa Ruda
+Piotrków Trybunalski
+W³oc³awek
+Wodzis³aw Œl¹ski
+Inowroc³aw
+Swarzêdz
+Grudzi¹dz
+Lubartów
+Olsztyn
+Wa³cz
+D¹browa Górnicza
+Przemyœl
+Elbl¹g
+Ko³obrzeg
+Krosno
+E³k
+Radom
+Skawina
+Tczew
+Ostróda
+Lubliniec
+Kutno
+Skawina
+Nysa
+O³awa
+O³awa
+Piaseczno
+Dzier¿oniów
+P³oñsk
+Miko³ów
+Gi¿ycko
+Bielsk Podlaski
+Malbork
+Opole
+Gniezno
+Œwidnik
+Wrzeœnia
+Konin
+Che³m
+Pi³a
+¯yrardów
+Swarzêdz
+Sanok
+Miko³ów
+Tarnowskie Góry
+Kluczbork
+Radom
+Zielona Góra
+¯ory
+Nowa Sól
+Skierniewice
+Rybnik
+Leszno
+Kutno
+Zawiercie
+Wo³omin
+Luboñ
+Bia³ystok
+Bia³ogard
+Koœcierzyna
+£owicz
+Œwiecie
+Gliwice
+Gorlice
+Œroda Wielkopolska
+Bia³ystok
+Nysa
+Bochnia
+¯yrardów
+W³oc³awek
+Bartoszyce
+Piastów
+Wroc³aw
+Krotoszyn
+Polkowice
+Elbl¹g
+Zgorzelec
+Zgorzelec
+Malbork
+Otwock
+Mys³owice
+CzeladŸ
+Bochnia
+Skar¿ysko-Kamienna
+Mys³owice
+Brodnica
+Koœcierzyna
+Szczecinek
+Kwidzyn
+Lubliniec
+£owicz
+Kwidzyn
+Lubliniec
+¯yrardów
+Legnica
+Nowy Targ
+Z¹bki
+Gliwice
+Nowa Ruda
+Sochaczew
+Otwock
+Starogard Gdañski
+Augustów
+¯yrardów
+Kwidzyn
+Bielawa
+Szczecin
+Ostróda
+Ostrów Wielkopolski
+Rybnik
+Lubartów
+Ko³o
+P³ock
+Malbork
+Rumia
+Gdynia
+Wejherowo
+Oleœnica
+Radom
+Tychy
+Œrem
+Czerwionka-Leszczyny
+Ciechanów
+Zielona Góra
+Polkowice
+Elbl¹g
+Wa³cz
+Lêbork
+Luboñ
+Che³m
+Olsztyn
+Jarocin
+Starogard Gdañski
+Swarzêdz
+Dzier¿oniów
+Tarnowskie Góry
+Œwiebodzice
+Sochaczew
+Olkusz
+Rzeszów
+Wroc³aw
+Pabianice
+Piastów
+Leszno
+Piotrków Trybunalski
+Bochnia
+Chojnice
+W³oc³awek
+Radom
+¯agañ
+Piotrków Trybunalski
+Legionowo
+Sochaczew
+Ostro³êka
+Tarnowskie Góry
+Piotrków Trybunalski
+Skierniewice
+Swarzêdz
+¯ary
+Legnica
+Luboñ
+Legnica
+Œroda Wielkopolska
+Goleniów
+Nowy Dwór Mazowiecki
 Bêdzin
-Wa³cz
-Ciechanów
-Zgorzelec
-¯ary
-Lubin
-Piaseczno
-Zambrów
-Wieluñ
-W³oc³awek
-Jarocin
-Bielsk Podlaski
-Zduñska Wola
-Kraków
-Piotrków Trybunalski
-Kraœnik
-Tychy
-Piastów
-Boles³awiec
-Starachowice
-Boles³awiec
-Mys³owice
-Grodzisk Mazowiecki
-Lubartów
-¯ory
-Zamoœæ
-Wrzeœnia
-Ostrów Wielkopolski
-Gdynia
-Siedlce
-Katowice
-S³upsk
-Siemianowice Œl¹skie
-Siemianowice Œl¹skie
-Swarzêdz
-Siemianowice Œl¹skie
-Nowa Ruda
-¯ywiec
-£om¿a
-Starachowice
-Brzeg
-Gdañsk
-O³awa
-Gorzów Wielkopolski
-Jarocin
-Augustów
-E³k
-Szczecinek
-Zielona Góra
-Cieszyn
-Skawina
-Tarnów
-£om¿a
-Jas³o
-Lubartów
-Œwinoujœcie
-Warszawa
-Opole
-Lubartów
+Œwiebodzice
+Legionowo
+Nowy Dwór Mazowiecki
+Bytom
 Mielec
-Krotoszyn
-W¹growiec
-Brzeg
-Wa³brzych
-Starachowice
-Rumia
-Tarnów
-¯yrardów
-Œwinoujœcie
-Kalisz
-Gdañsk
-Suwa³ki
-Wyszków
-Pu³awy
-Sanok
-¯agañ
-Chrzanów
 Cieszyn
-Œwinoujœcie
-Legnica
-Z¹bki
-Warszawa
-Otwock
-Legnica
+Bia³ystok
+Zakopane
+Skar¿ysko-Kamienna
+Tychy
+Starogard Gdañski
+Ruda Œl¹ska
+Pu³awy
+Œwiebodzice
+Oœwiêcim
+Boles³awiec
+W³oc³awek
+£uków
+Kalisz
+Che³m
+Be³chatów
+Sieradz
+Ostrowiec Œwiêtokrzyski
+G³ogów
+Jelenia Góra
+Œwidnica
+Marki
+¯ory
+Bartoszyce
+Olkusz
+Sosnowiec
+Tomaszów Mazowiecki
+Pruszków
+CzeladŸ
+Ko³obrzeg
+Kraœnik
+Piekary Œl¹skie
+Che³m
+Czechowice-Dziedzice
+£ódŸ
+Sosnowiec
+Che³m
+Mys³owice
+Cieszyn
+Œwidnik
+W¹growiec
+Kutno
+E³k
+Piastów
+Pi³a
+Stalowa Wola
+Olsztyn
+P³ock
+M³awa
+Katowice
+I³awa
+Wejherowo
+Bielsko-Bia³a
+Krosno
+Inowroc³aw
+Bartoszyce
+Przemyœl
+Bartoszyce
+Kraœnik
+Krosno
+Marki
+Czerwionka-Leszczyny
+Chojnice
+Œwidnica
+Koœcierzyna
+Kutno
+Jaros³aw
+Lêbork
+Brzeg
+Œroda Wielkopolska
+Pruszcz Gdañski
+Skierniewice
+Ostro³êka
+Zakopane
+Jawor
+Ruda Œl¹ska
 Goleniów
-Pruszcz Gdañski
-E³k
-Kluczbork
-Zgorzelec
-Ostróda
-Mys³owice
-Tychy
-Mielec
-Sieradz
-Wa³cz
-Koszalin
-P³oñsk
-Koszalin
-Miko³ów
-Bia³ogard
-Wa³cz
-Grudzi¹dz
-Wieluñ
-Konin
-Czerwionka-Leszczyny
-Mys³owice
-Lubartów
-Lubartów
-¯yrardów
-Police
-Jawor
-Nowy Dwór Mazowiecki
-Sochaczew
-Rybnik
-Œwiêtoch³owice
+Koœcierzyna
 Œwidnik
-Toruñ
-Bia³ystok
-Rybnik
-Sopot
-Krosno
-Jawor
-Bielawa
-Jelenia Góra
-¯agañ
-P³ock
+Koœcian
+Lêbork
 £uków
-Tarnowskie Góry
-Olsztyn
-Kwidzyn
-Marki
-Jawor
-Mielec
-D¹browa Górnicza
-Starogard Gdañski
-Police
-Stargard Szczeciñski
-Nysa
+Boles³awiec
 Be³chatów
-Jarocin
-Lublin
-Police
-Legnica
-¯yrardów
-Kielce
-Bia³ogard
-£om¿a
-Miko³ów
-£owicz
-Opole
-Sochaczew
-Chrzanów
-£ódŸ
-Zamoœæ
-Sandomierz
-Tarnobrzeg
-Marki
-Tychy
-Lublin
-Turek
-Chorzów
-Skierniewice
-Swarzêdz
-Bielsk Podlaski
-Œwiêtoch³owice
-Rumia
-Wrzeœnia
-Marki
-Tarnobrzeg
-Sopot
-CzeladŸ
-Wo³omin
-Siedlce
-Gorlice
-Gliwice
-I³awa
-Œwiecie
-Ostrów Wielkopolski
-¯ary
-P³oñsk
-¯yrardów
-Jaros³aw
-Miñsk Mazowiecki
-Kraków
-Gliwice
-Augustów
-Nowy Dwór Mazowiecki
-Œwiecie
-Bielawa
-Chorzów
+P³ock
 Stargard Szczeciñski
-Œwiebodzice
 £ódŸ
-Marki
-Reda
-Œwiebodzice
-Bi³goraj
-Ciechanów
-Sopot
-Elbl¹g
-Koszalin
-Chorzów
-Warszawa
-Otwock
-Bia³ogard
-I³awa
-Legnica
-Bartoszyce
-Leszno
-Legionowo
-Ostrowiec Œwiêtokrzyski
-Wyszków
-Œwinoujœcie
-Ko³obrzeg
-Jawor
-Jawor
-M³awa
 Kraków
+Rybnik
 Sandomierz
-Rumia
-Przemyœl
-Chorzów
-Czerwionka-Leszczyny
-Lubartów
-Gi¿ycko
-Œwiecie
-Krosno
-Jaworzno
-Miñsk Mazowiecki
-Grodzisk Mazowiecki
-Nowy Dwór Mazowiecki
-Pu³awy
-Knurów
-Tarnowskie Góry
-Dêbica
-Œwiebodzice
-Czechowice-Dziedzice
-Gorlice
-Grudzi¹dz
-G³ogów
-Ostrów Wielkopolski
-Siemianowice Œl¹skie
-Skar¿ysko-Kamienna
-Jaworzno
+Lêbork
+Be³chatów
 I³awa
-Gdañsk
-Zduñska Wola
-Bochnia
-Olkusz
-Gniezno
-Skar¿ysko-Kamienna
-Gorlice
-I³awa
-Legnica
-Konin
-Sieradz
-Œwinoujœcie
-Tarnów
-P³oñsk
-Gdañsk
-Racibórz
-Kalisz
-Piotrków Trybunalski
-Wa³brzych
-W¹growiec
-Wieluñ
-Wa³cz
-£uków
-Starachowice
-Piotrków Trybunalski
-Starogard Gdañski
-Police
-Elbl¹g
-Pi³a
-M³awa
-Piastów
-Lublin
-Bartoszyce
-Mys³owice
-Jawor
-Wo³omin
-Rzeszów
-P³oñsk
+Bia³a Podlaska
+Zawiercie
+Pruszcz Gdañski
+Wroc³aw
+Ko³obrzeg
+Œroda Wielkopolska
 £owicz
-£uków
+Poznañ
+Suwa³ki
+Gdynia
+Gi¿ycko
+P³oñsk
+Ostrów Mazowiecka
+Lêbork
+Ostro³êka
+Ko³obrzeg
+Marki
+Sanok
+Pabianice
+Bytom
+Myszków
+Jaworzno
+Lubin
+Chojnice
+Przemyœl
+Bia³a Podlaska
+Szczecinek
+Zielona Góra
+Œwiêtoch³owice
+Tomaszów Mazowiecki
+¯ory
+Poznañ
+Lêbork
+Zawiercie
+Siedlce
+Police
+Chrzanów
+Gorlice
+Lubin
+Be³chatów
+¯ywiec
+Gliwice
+Malbork
+Ostro³êka
+Ostrów Wielkopolski
+Radomsko
+Koœcian
+Jaworzno
+Ostro³êka
+Ostrów Wielkopolski
+Wa³brzych
+Pi³a
 Skawina
 Leszno
-Jaworzno
-Zgierz
-Piotrków Trybunalski
-Racibórz
-Wa³cz
-Olsztyn
-Wa³cz
-Kwidzyn
-Kraków
-Che³m
-Miñsk Mazowiecki
-Chrzanów
-Krosno
-Kalisz
-Gdynia
-Wa³brzych
-Gi¿ycko
-Stalowa Wola
-W¹growiec
-Gdañsk
-Koszalin
-Nowy Targ
-Wodzis³aw Œl¹ski
-Kluczbork
-Rybnik
-Sandomierz
-Bielawa
-Sochaczew
-Brodnica
-Jaworzno
-Starachowice
-£uków
-£uków
-Kluczbork
-Lubartów
-Piotrków Trybunalski
-Pruszcz Gdañski
-Ostróda
-Ostrowiec Œwiêtokrzyski
-Jas³o
-Jaros³aw
-£aziska Górne
+Boles³awiec
+Pi³a
+Grodzisk Mazowiecki
+Czechowice-Dziedzice
+Luboñ
+Skierniewice
 Warszawa
-E³k
-Miko³ów
-Nysa
-Bielawa
-£ódŸ
-Bielsko-Bia³a
-Nysa
-Elbl¹g
-Wa³cz
-Zielona Góra
-Ostrowiec Œwiêtokrzyski
-Œwiebodzice
-Œwiecie
-Gorzów Wielkopolski
-Augustów
-Radom
-Nysa
-Lubliniec
-Czêstochowa
-Rybnik
-Ostrów Wielkopolski
-Jaros³aw
-Szczecinek
-Stalowa Wola
-Œroda Wielkopolska
-¯ory
-Lubliniec
-Ostrów Mazowiecka
-Szczytno
-Turek
-Œwinoujœcie
-P³ock
-I³awa
-¯ary
-Szczytno
-Poznañ
-Cieszyn
-Jas³o
-Bielsko-Bia³a
-Œwinoujœcie
-Kielce
-Ostrowiec Œwiêtokrzyski
-Pruszków
-Koœcian
-Bytom
-W³oc³awek
-Pruszcz Gdañski
-¯yrardów
-Myszków
-Swarzêdz
-Œwidnica
-£ódŸ
-Ruda Œl¹ska
-Miko³ów
-Racibórz
-Wo³omin
-Turek
-Zamoœæ
-Police
-Jaros³aw
-Rybnik
-Nowy Dwór Mazowiecki
-Jawor
-Boles³awiec
-Starachowice
-Boles³awiec
-¯ary
-Rumia
-Pruszków
-Koszalin
-Kêdzierzyn-KoŸle
-Kwidzyn
-Kêdzierzyn-KoŸle
-S³upsk
-Piastów
-Zielona Góra
-Sopot
-Œwinoujœcie
-Radom
-Lubartów
-Jaworzno
-Lublin
-Czerwionka-Leszczyny
-Che³m
-Marki
-¯ory
-O³awa
-Augustów
-Chrzanów
-Sopot
-Œrem
-Jastrzêbie-Zdrój
-£ódŸ
-Zambrów
-Tarnów
-Chrzanów
-Tomaszów Mazowiecki
-Lubin
-G³ogów
-£om¿a
-Luboñ
-S³upsk
-Zduñska Wola
-£uków
-Starachowice
-Nowa Ruda
-M³awa
-Grudzi¹dz
-Pu³awy
-Pruszcz Gdañski
-Ko³o
-Tarnobrzeg
-Opole
-Poznañ
-Konin
-Tarnów
-Polkowice
-Ko³obrzeg
-Miñsk Mazowiecki
-Lubliniec
-Koœcierzyna
-CzeladŸ
-Tomaszów Mazowiecki
-Sochaczew
-Bytom
-Boles³awiec
-Sochaczew
-Wo³omin
-Szczecinek
-Turek
-Lubliniec
-£om¿a
-Krosno
-Oœwiêcim
-Œroda Wielkopolska
-Wrzeœnia
-G³ogów
-Kêtrzyn
-Sochaczew
-Chojnice
-CzeladŸ
-Jas³o
-Radom
-Zakopane
-Bartoszyce
-Ko³o
-Jarocin
-Olkusz
-Lêbork
-Ostrowiec Œwiêtokrzyski
-Tarnów
-Zawiercie
-Zabrze
-Wa³brzych
-Ostrów Wielkopolski
-Lublin
-Reda
-Chorzów
-Piotrków Trybunalski
-Kluczbork
-O³awa
-Nowa Ruda
-Opole
-Grudzi¹dz
-Be³chatów
-Jas³o
-Gorzów Wielkopolski
-Ko³obrzeg
-Luboñ
-Zakopane
-Zduñska Wola
-Szczecinek
-Pu³awy
-Dêbica
-Radomsko
-Nowa Sól
-Jaworzno
-Lêbork
-Bartoszyce
-K³odzko
-Jas³o
-Turek
-Be³chatów
-Tarnowskie Góry
-Nowy Targ
-£ódŸ
-Sochaczew
-Jaros³aw
-Zabrze
-Bi³goraj
-Inowroc³aw
-Wo³omin
-Gi¿ycko
-¯ary
-Turek
-Olkusz
-Rybnik
-Nowy S¹cz
-Lubliniec
-Chorzów
-Lublin
-Kielce
-Piastów
-Opole
-Lublin
-Stalowa Wola
-Bielawa
-Szczecinek
-Œroda Wielkopolska
-Œrem
-Luboñ
-Nowa Ruda
-¯agañ
-Tarnów
-£uków
-Che³m
-Wrzeœnia
-Legnica
-K³odzko
-Rumia
-Radom
-Ostro³êka
-Wyszków
-Kluczbork
-D¹browa Górnicza
-Tczew
-Oœwiêcim
-Z¹bki
-S³upsk
-Piekary Œl¹skie
-Tarnów
-Piastów
-Lublin
-Legionowo
-Mielec
-Piotrków Trybunalski
-Tarnobrzeg
-Marki
-Malbork
-Toruñ
-Szczecin
-Ostro³êka
-Leszno
-Wa³cz
-Zabrze
-W¹growiec
-Zgierz
-Starogard Gdañski
-¯ary
-¯ary
-Olsztyn
-Pabianice
-Jaworzno
-Bielawa
-Starogard Gdañski
-Koszalin
-Nowy Targ
-£aziska Górne
-Gi¿ycko
-Œwidnica
-Cieszyn
-£uków
-Wrzeœnia
-Ostrowiec Œwiêtokrzyski
-Zamoœæ
-Marki
-¯ary
-Kluczbork
-Lêbork
-S³upsk
-Bi³goraj
-Suwa³ki
-Pruszcz Gdañski
-Stargard Szczeciñski
-Krosno
-Lublin
-Wroc³aw
-Œwidnica
-CzeladŸ
-Stargard Szczeciñski
-Inowroc³aw
-Lublin
-Ruda Œl¹ska
-Pruszków
-K³odzko
-Z¹bki
-Zduñska Wola
-Jas³o
-Bytom
-Bartoszyce
-Cieszyn
-Pruszków
-Bydgoszcz
+Skar¿ysko-Kamienna
 Katowice
-Sandomierz
-Z¹bki
-Gi¿ycko
-Nowy S¹cz
-Sosnowiec
-Nysa
-Rzeszów
-Siedlce
-Nysa
-Brodnica
-Sandomierz
-Oleœnica
-Nowa Ruda
-Kraœnik
-Wodzis³aw Œl¹ski
-Bia³ogard
-Bytom
-Skawina
-Starogard Gdañski
-Piotrków Trybunalski
-Leszno
-¯ywiec
-Zgorzelec
-Lublin
-Nowy Dwór Mazowiecki
-Ko³obrzeg
-Olsztyn
-Poznañ
-Sosnowiec
-M³awa
-Piotrków Trybunalski
-Pi³a
-Turek
-Wroc³aw
-Szczecin
-Skawina
-Che³m
-Ostróda
-Krosno
-Lublin
-¯ory
-Nowy S¹cz
-Starogard Gdañski
-Koœcierzyna
-Koszalin
-Z¹bki
-Olsztyn
-Brzeg
-Otwock
-Oœwiêcim
-Wodzis³aw Œl¹ski
-Mys³owice
-Czêstochowa
-Lubartów
-Jastrzêbie-Zdrój
-Szczecin
-K³odzko
-Œwiecie
-Tomaszów Mazowiecki
-Kluczbork
-Kêdzierzyn-KoŸle
-Skierniewice
-W¹growiec
-Lubartów
-£ódŸ
-Zamoœæ
-Tomaszów Mazowiecki
-Polkowice
-Skar¿ysko-Kamienna
-£owicz
-Szczecinek
-Skawina
-Myszków
-Marki
-Czechowice-Dziedzice
-Jawor
-Swarzêdz
-Wieluñ
-Pruszków
-Zambrów
-Rzeszów
-Koszalin
-P³ock
-Skawina
-¯ory
-W³oc³awek
-Knurów
-Gorlice
-£ódŸ
-Pruszków
-Wrzeœnia
-I³awa
-Kêdzierzyn-KoŸle
-¯yrardów
-Suwa³ki
-Kalisz
-Oleœnica
-Szczytno
-Zambrów
-Jaworzno
-P³oñsk
-Cieszyn
-Szczecinek
-Radom
-Jastrzêbie-Zdrój
-Gdynia
 Lubliniec
-Be³chatów
-Wejherowo
-Jaworzno
-Knurów
-P³oñsk
-Œwidnica
-Tarnów
-Sopot
-Knurów
-Malbork
-Miko³ów
-Jaworzno
-¯ary
+Pu³awy
+Kluczbork
 Stalowa Wola
-Gdañsk
-Wyszków
-Bia³a Podlaska
-Pi³a
-Chojnice
-Kraœnik
-Gliwice
-Augustów
-Pruszcz Gdañski
-Œrem
-Chojnice
-Koszalin
-Koœcierzyna
-Bochnia
-Lublin
+Brzeg
 Bia³ystok
-Jas³o
-Zduñska Wola
-I³awa
-Sosnowiec
-E³k
+Toruñ
+S³upsk
+Lubartów
+Gniezno
+Ciechanów
+Ruda Œl¹ska
+Skawina
+¯ory
+Suwa³ki
+Rumia
+Szczytno
+Œwiebodzice
+Knurów
+Zabrze
+£ódŸ
+Jaworzno
 Piaseczno
-Mys³owice
-Ostróda
-Boles³awiec
-Krosno
+Kêtrzyn
+Ostro³êka
+O³awa
+Jas³o
+Nowy Dwór Mazowiecki
+Pruszków
+¯ary
+P³ock
+Grudzi¹dz
+Ostrów Mazowiecka
+Tarnów
 Cieszyn
-Nowy S¹cz
-Polkowice
-Myszków
-Wodzis³aw Œl¹ski
-Œwidnik
-Reda
+Mys³owice
+Che³m
+Ostro³êka
+Racibórz
+Konin
+Zamoœæ
+Pu³awy
+Czechowice-Dziedzice
+Œwiecie
+£aziska Górne
+Bia³a Podlaska
+Olsztyn
+Tarnobrzeg
+Ko³o
+Bielawa
+Bia³a Podlaska
+Ciechanów
+Nowy Dwór Mazowiecki
+Zakopane
+Tczew
+Wyszków
+Stalowa Wola
+Œwiebodzice
+Poznañ
+¯agañ
+Wyszków
+Wroc³aw
+Wyszków
+Bartoszyce
+Tarnowskie Góry
+W¹growiec
+Kraœnik
+Rybnik
 Legnica
 Kalisz
-Œwidnica
-Sosnowiec
-Przemyœl
-Knurów
-£uków
-Che³m
-Tarnów
-Be³chatów
-Olkusz
-Pruszków
-Jaros³aw
-Nowy Dwór Mazowiecki
+Jas³o
+¯ary
+Lublin
+Miko³ów
+Zduñska Wola
+Bielsk Podlaski
+E³k
 Œwidnica
 Kraków
-Reda
-Brodnica
-Toruñ
-CzeladŸ
-Siemianowice Œl¹skie
-Sieradz
-Inowroc³aw
-Lubliniec
-Gdynia
-Oœwiêcim
-Radomsko
-Polkowice
-Wejherowo
-Tomaszów Mazowiecki
-Rumia
-Stargard Szczeciñski
-Bia³ystok
-£uków
-Zabrze
-Zgierz
-Siemianowice Œl¹skie
-Tarnobrzeg
-Bia³a Podlaska
-Nowa Ruda
-Oœwiêcim
-Nowa Ruda
-Turek
-Czêstochowa
-Nowy Dwór Mazowiecki
-Lubliniec
-Gdañsk
-Suwa³ki
-Œrem
-Suwa³ki
-Polkowice
-Luboñ
-Tczew
-¯yrardów
-Koœcierzyna
-Boles³awiec
-Warszawa
-Zamoœæ
-Œwidnik
-Sieradz
-Suwa³ki
-Cieszyn
-Wodzis³aw Œl¹ski
-Pabianice
-Jarocin
-Polkowice
-Poznañ
-Piastów
-Leszno
-Ruda Œl¹ska
-Kalisz
-Siemianowice Œl¹skie
-Tarnowskie Góry
-Pabianice
-Skawina
-Wejherowo
-Skierniewice
-Che³m
-Sanok
-Radom
-Bydgoszcz
-Ciechanów
-Nysa
-Skawina
-Rumia
-Koœcierzyna
-Piaseczno
-Bia³ogard
-Swarzêdz
-Nowa Ruda
-Inowroc³aw
-Ko³obrzeg
-Tarnów
-Lubin
-Brzeg
-Zgorzelec
-Jastrzêbie-Zdrój
-Pi³a
-Lubliniec
-Tarnowskie Góry
-Oleœnica
-Zawiercie
-Zielona Góra
-Pi³a
-Sopot
-Tarnowskie Góry
-Krotoszyn
-Sosnowiec
-Bia³a Podlaska
-Nysa
-I³awa
-Ostrów Wielkopolski
-Zielona Góra
-Ruda Œl¹ska
-Nysa
-Kwidzyn
-£owicz
 Chojnice
-Tomaszów Mazowiecki
-Siedlce
-Œwiebodzice
-Zduñska Wola
-P³ock
-Pi³a
-Ko³obrzeg
-Ostro³êka
-Pruszcz Gdañski
-Tarnów
-Kluczbork
-Pu³awy
-Grodzisk Mazowiecki
-Siedlce
-Œwiebodzice
-Zambrów
-Jaros³aw
-Zamoœæ
-Dzier¿oniów
-Gdañsk
-Malbork
-Œwinoujœcie
-Wyszków
-Jawor
-Malbork
-Szczecinek
-Tarnów
-D¹browa Górnicza
-Œwidnica
-Dzier¿oniów
-Konin
-Kêtrzyn
-Zgorzelec
-Piekary Œl¹skie
-Ostrów Wielkopolski
-Siedlce
-Kielce
-Olkusz
-Bia³ogard
-Zielona Góra
-Kielce
-Che³m
-Œwidnik
-Bydgoszcz
-CzeladŸ
-Dêbica
-Tomaszów Mazowiecki
-Kwidzyn
-Kwidzyn
-Skawina
-Koœcian
-Olsztyn
-Ostrowiec Œwiêtokrzyski
-Wo³omin
-Lubliniec
-¯agañ
-Konin
-Kluczbork
-Knurów
-Wroc³aw
-Olkusz
-Kalisz
-Œwiebodzice
-Wo³omin
-Jaros³aw
-Polkowice
-Pu³awy
-Racibórz
-Radom
-Elbl¹g
-Pabianice
-Nysa
-Warszawa
-Rumia
-Legnica
-Piotrków Trybunalski
-Marki
-Skar¿ysko-Kamienna
-Reda
-Grodzisk Mazowiecki
-Wo³omin
-Sopot
-Toruñ
-Leszno
-Mys³owice
-Dêbica
-Zawiercie
-Piekary Œl¹skie
-Marki
-Opole
-Zakopane
-Gliwice
-¯agañ
-Mielec
-Wa³brzych
-G³ogów
-Dzier¿oniów
-Stargard Szczeciñski
-Œroda Wielkopolska
-Czechowice-Dziedzice
-Œwiecie
-Toruñ
-Marki
-P³oñsk
-Pruszcz Gdañski
-Kwidzyn
-Pabianice
-Tczew
-Poznañ
-Kluczbork
-Dêbica
-Oleœnica
-D¹browa Górnicza
-Lubin
-Radom
-Jaworzno
-Knurów
-Wo³omin
-Piotrków Trybunalski
-Kluczbork
-Oleœnica
-Lubliniec
-Skierniewice
-Starogard Gdañski
-Grudzi¹dz
-Szczecinek
-Chorzów
-Ko³o
-Gi¿ycko
-Chrzanów
-Legionowo
-Bia³ystok
-Nowy Dwór Mazowiecki
-Bytom
-Bochnia
-Suwa³ki
-Pruszcz Gdañski
-Police
-Ostro³êka
-Pabianice
-Be³chatów
-Tychy
-Racibórz
-Poznañ
-Wyszków
-Jastrzêbie-Zdrój
-G³ogów
-Tychy
-Toruñ
-Mys³owice
-Koœcian
-Augustów
-Brzeg
-£ódŸ
-Stalowa Wola
-Poznañ
-W¹growiec
-G³ogów
-Zamoœæ
-Piastów
-Gdynia
+O³awa
 Lublin
-D¹browa Górnicza
-Ko³obrzeg
-Zawiercie
-Ostrowiec Œwiêtokrzyski
-Sandomierz
-Zduñska Wola
-W³oc³awek
-Dzier¿oniów
-Miko³ów
-Oleœnica
-Augustów
-Œwiecie
-Stalowa Wola
-Starogard Gdañski
-Zgierz
-Œwidnica
-Stargard Szczeciñski
-Piotrków Trybunalski
-Suwa³ki
-Leszno
-Bielsko-Bia³a
-¯ary
-Nowy S¹cz
-Siedlce
-Bia³a Podlaska
-Szczecinek
-Bochnia
-Luboñ
-Pszczyna
-Œwiebodzice
-Leszno
-Rybnik
-Bydgoszcz
-Luboñ
-Stargard Szczeciñski
-Œroda Wielkopolska
-Œwinoujœcie
-Oœwiêcim
-¯yrardów
-Oleœnica
-Opole
-Cieszyn
-W³oc³awek
-Legnica
-Olkusz
-¯ary
-Kluczbork
-Bielsko-Bia³a
-O³awa
-Ko³o
-Wo³omin
-Szczecin
-Toruñ
-Gdañsk
-Ostrowiec Œwiêtokrzyski
-Œrem
-Inowroc³aw
-Tczew
-Rzeszów
-Brzeg
-Bartoszyce
-Opole
-Nowa Sól
-P³oñsk
-Ostróda
-Swarzêdz
-G³ogów
-Rumia
-W¹growiec
-Gi¿ycko
-Chrzanów
-Boles³awiec
-O³awa
-£om¿a
-Bochnia
-Ko³obrzeg
-Kwidzyn
-Rzeszów
-Malbork
-Gorzów Wielkopolski
-Nowy Dwór Mazowiecki
-Dzier¿oniów
-Kalisz
-Piekary Œl¹skie
-Sosnowiec
-¯ory
-Jaworzno
-Lubin
-Œwidnica
-Boles³awiec
-Mielec
-Sosnowiec
-Sieradz
-Bia³ogard
-Jaros³aw
-Opole
-Lubin
-Kalisz
-Bielawa
-£uków
-Piastów
-Ostrowiec Œwiêtokrzyski
-Jawor
-K³odzko
-CzeladŸ
-¯ywiec
-Zambrów
-Lubartów
-W¹growiec
-Siemianowice Œl¹skie
-Kalisz
-Stargard Szczeciñski
-Bydgoszcz
-Kêtrzyn
-Olkusz
-Œwinoujœcie
-Toruñ
-Bia³ogard
-Zielona Góra
-£ódŸ
-Leszno
-Tychy
-Lubliniec
-Piotrków Trybunalski
-Bia³a Podlaska
-Jaworzno
-Pszczyna
-Bielsk Podlaski
-Pszczyna
-Reda
-Malbork
-¯ywiec
-Police
-Bielawa
-Brzeg
-Jastrzêbie-Zdrój
-£ódŸ
 Jelenia Góra
-Krosno
-Nowa Sól
-Chrzanów
-Gniezno
-Augustów
-Jaros³aw
-Sosnowiec
-Luboñ
-Leszno
-Skar¿ysko-Kamienna
-Zawiercie
-£aziska Górne
-Oœwiêcim
-Legnica
-Œwinoujœcie
-Œrem
-Wa³brzych
-W³oc³awek
-Kielce
-Ostrów Mazowiecka
-Skar¿ysko-Kamienna
+Stalowa Wola
+Bia³ystok
+Grodzisk Mazowiecki
 Bi³goraj
-Oœwiêcim
-K³odzko
-Toruñ
-Malbork
-Gi¿ycko
-Kielce
-W¹growiec
-Nowy S¹cz
-Tarnów
-Miko³ów
-Zabrze
-Turek
-Œwinoujœcie
-Krosno
-Zabrze
-Rybnik
-Zduñska Wola
-Reda
-Gi¿ycko
-£aziska Górne
-Bielsko-Bia³a
-Racibórz
-Jaworzno
-Rumia
-Wejherowo
-Otwock
-Z¹bki
-Jaros³aw
-Zduñska Wola
-Nowa Ruda
-Gdañsk
-P³oñsk
-Jaros³aw
-Lubin
-Piastów
-Warszawa
-Marki
-Starogard Gdañski
-Skawina
-Dzier¿oniów
-E³k
-P³ock
-£uków
-Dzier¿oniów
-Lublin
-Kluczbork
-Starachowice
-Œrem
-D¹browa Górnicza
-Chrzanów
-Tarnów
-Zakopane
-Lubartów
-£aziska Górne
-Tomaszów Mazowiecki
-Kêtrzyn
-Otwock
-Bia³ogard
-Pabianice
-Koœcierzyna
-Grodzisk Mazowiecki
-Radomsko
-Chojnice
-Turek
-Œwiêtoch³owice
-Otwock
-Ko³obrzeg
-Siedlce
-Piotrków Trybunalski
-O³awa
-I³awa
-Kraœnik
-Miko³ów
-Ko³o
-Grudzi¹dz
-Ostrowiec Œwiêtokrzyski
-Œwidnica
-Brzeg
-Konin
-Pszczyna
-¯ywiec
-Gi¿ycko
-Legionowo
-Legnica
-Gdynia
-Wa³cz
-Suwa³ki
-Ko³obrzeg
-Jaworzno
-Jas³o
-Inowroc³aw
-Brodnica
-Poznañ
-Sopot
-Bêdzin
-G³ogów
-Jarocin
-Ostrowiec Œwiêtokrzyski
-Oœwiêcim
-Kutno
-Piaseczno
-P³ock
-Malbork
-Bydgoszcz
-Œrem
-Ostrów Wielkopolski
-Szczecin
-Krotoszyn
-Sandomierz
-Grodzisk Mazowiecki
-Pi³a
-Œwidnica
-Be³chatów
-Boles³awiec
-Toruñ
-Kêdzierzyn-KoŸle
-Wyszków
-Kalisz
-Kêtrzyn
-Szczecinek
-Skar¿ysko-Kamienna
-Kwidzyn
-Bydgoszcz
-Skar¿ysko-Kamienna
-Sanok
-Zakopane
-Grudzi¹dz
-Mielec
-W³oc³awek
-Dzier¿oniów
-Jaros³aw
-Czerwionka-Leszczyny
-Œwiêtoch³owice
-Opole
-Olsztyn
-Gdañsk
-Zgierz
-Kutno
-Starachowice
-¯yrardów
-P³ock
-Konin
-Wa³cz
-Leszno
-P³ock
-Olsztyn
-Rybnik
-Swarzêdz
-¯agañ
-Zawiercie
-Rybnik
-Zduñska Wola
-Miko³ów
-Augustów
-Oleœnica
-Nowa Ruda
 Tychy
-Kêtrzyn
-Bytom
-Tczew
-Sieradz
-Olsztyn
-I³awa
+P³ock
 £aziska Górne
-Elbl¹g
-Brodnica
-Sopot
-Koœcierzyna
-Kraœnik
-Augustów
-¯yrardów
-P³oñsk
-Bartoszyce
-Myszków
-Stargard Szczeciñski
-Chorzów
-Sanok
-Legionowo
-Chorzów
-Lêbork
-Pi³a
-Nysa
-Kutno
-Nowa Ruda
-Otwock
-Gdañsk
-Nowy Dwór Mazowiecki
-Ko³obrzeg
+£uków
+£uków
+£owicz
+Radomsko
+Ostróda
+Siemianowice Œl¹skie
+Piaseczno
+S³upsk
 Œwidnica
+Pruszcz Gdañski
+Skierniewice
+Legionowo
+Oleœnica
+Piekary Œl¹skie
+Przemyœl
+Tychy
+Miñsk Mazowiecki
+CzeladŸ
+Brzeg
+Kutno
+Radomsko
+Ostróda
+Tarnowskie Góry
+Sosnowiec
+¯agañ
+Piastów
+Police
+Sosnowiec
+Brodnica
+Ostrowiec Œwiêtokrzyski
+Rumia
+Œwinoujœcie
+Koœcierzyna
+Ostróda
+Radom
+Pu³awy
+Kalisz
+Zgierz
+Gorlice
+Jarocin
+Starachowice
+Lublin
+Wo³omin
+Wo³omin
+O³awa
+Tczew
+D¹browa Górnicza
+Legionowo
+Toruñ
+Miñsk Mazowiecki
+Bielsko-Bia³a
+Chorzów
+Polkowice
+Pu³awy
+Otwock
+Nowy S¹cz
+Bi³goraj
+Gorzów Wielkopolski
+Tarnowskie Góry
+Œwiêtoch³owice
+¯ory
+Gliwice
+Œwidnik
+I³awa
+Bia³ystok
+Otwock
+Grudzi¹dz
+Ko³obrzeg
+Jaworzno
+Wo³omin
+Wa³brzych
+Chrzanów
+Kutno
+Rumia
+£aziska Górne
+Lêbork
+£owicz
+Legionowo
+Tczew
+Luboñ
+Sieradz
+Chojnice
+Rzeszów
+Pszczyna
 Marki
+Gliwice
+Nowa Ruda
+Jawor
+Che³m
+Jelenia Góra
+Luboñ
+Sieradz
+Sandomierz
+Pruszcz Gdañski
+Œwidnica
+Legionowo
+Bia³a Podlaska
+Œwiêtoch³owice
+Chorzów
+£ódŸ
+Kutno
+Chrzanów
+£om¿a
+Szczecin
+Poznañ
+Ruda Œl¹ska
+Boles³awiec
+¯ory
+E³k
+Nowy Dwór Mazowiecki
+P³oñsk
+Koœcierzyna
+Kalisz
+Che³m
+Szczytno
+Lublin
+Chrzanów
+Piaseczno
+Dêbica
+Zielona Góra
+Augustów
+£owicz
+Be³chatów
+Krotoszyn
+Tychy
+Olsztyn
+Bielsk Podlaski
+Pabianice
+Ostrowiec Œwiêtokrzyski
+Mielec
+Gliwice
+Reda
+Nowy Dwór Mazowiecki
+Œrem
+Olsztyn
+£aziska Górne
+Opole
+Pruszków
+Kraków
+Chojnice
+Poznañ
+Pabianice
+Œwiebodzice
+Tczew
+Koœcierzyna
+W¹growiec
+Piaseczno
+Bia³a Podlaska
+W¹growiec
+Oleœnica
+Skierniewice
+Przemyœl
+¯ary
+Kraœnik
+Bia³ogard
+Wodzis³aw Œl¹ski
+Piotrków Trybunalski
+Nowy Targ
+Grudzi¹dz
+Kluczbork
+Tychy
+Skar¿ysko-Kamienna
+Jawor
+Zgierz
+Lubin
+Siemianowice Œl¹skie
+Zgierz
+Gliwice
+Ko³obrzeg
+Racibórz
+¯agañ
+Œrem
+Jaros³aw
+Koœcian
+Pruszków
+Lêbork
+Dzier¿oniów
+Warszawa
+Ostrów Wielkopolski
+Kutno
+Warszawa
+Ostrów Mazowiecka
+Bytom
+¯ywiec
+Stargard Szczeciñski
+¯ary
+Piaseczno
+Kêdzierzyn-KoŸle
+Koszalin
+Nowa Ruda
+Pruszków
+Lubartów
+Koszalin
+Mielec
+Olkusz
+Grudzi¹dz
+Zakopane
+D¹browa Górnicza
+Stargard Szczeciñski
+Sopot
+Luboñ
+Jas³o
+Skawina
+Szczecin
+CzeladŸ
+Chojnice
+K³odzko
+Chrzanów
+Gliwice
+Suwa³ki
+Bielsk Podlaski
+Ko³obrzeg
+Polkowice
+Œwiebodzice
+Ko³o
+Bytom
+Kêdzierzyn-KoŸle
+Kraœnik
+Siemianowice Œl¹skie
+Sosnowiec
+Bochnia
+Luboñ
+Bochnia
+Zduñska Wola
+Mys³owice
+Nowa Ruda
+Oœwiêcim
+Zduñska Wola
+Malbork
+Nowy Targ
+Nowa Ruda
+Inowroc³aw
