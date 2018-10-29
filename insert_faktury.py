@@ -42,49 +42,50 @@ if __name__ == '__main__':
 			CI_created = 0
 		
 		CI_act_year = str(time.year)
-		while(True):
-			period_time_start_main = time_for_driver_main + dateutil.relativedelta.relativedelta(hours=random.randint(0,3))
-			time_for_driver_main = period_time_start_main
-			period_time_end_main = period_time_start_main + dateutil.relativedelta.relativedelta(hours=random.randint(3,14))
-			drivers_used = numpy.zeros(NODRIVERS)
-			for drivers_count in range (0, random.randint(10, int(NODRIVERS/3))):
-				driver = random.randint(0, NODRIVERS-1)
-				while(drivers_used[driver] == 1):
+		if (t1 > 0):
+			while(True):
+				period_time_start_main = time_for_driver_main + dateutil.relativedelta.relativedelta(hours=random.randint(0,3))
+				time_for_driver_main = period_time_start_main
+				period_time_end_main = period_time_start_main + dateutil.relativedelta.relativedelta(hours=random.randint(3,14))
+				drivers_used = numpy.zeros(NODRIVERS)
+				for drivers_count in range (0, random.randint(10, int(NODRIVERS/3))):
 					driver = random.randint(0, NODRIVERS-1)
-				drivers_used[driver] = 1
-				
-				period_time_start = period_time_start_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
-				time_for_driver = time_for_driver_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
-				period_time_end = period_time_end_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
-				
-				while(time_for_driver < period_time_end):
-					start_time = time_for_driver + dateutil.relativedelta.relativedelta(minutes=random.randint(1,50)) + dateutil.relativedelta.relativedelta(minutes=random.randint(0,20))
-					end_time = start_time + dateutil.relativedelta.relativedelta(minutes=random.randint(8,60))
-					klient = klienttable[random.randint(0,NOCLIENTS-1)].replace("\n", "")
-					kierowca = kierowcytable[driver].replace("\n", "")
-					status_platnosci = random.randint(0,1)
-					kilometry = random.randint(100,5000)/100.0
-					oplata = kilometry*2 + 6.0
-					oplata = float("{0:.2f}".format(oplata))
-					trasa = random.randint(0,NOROADS - 1)
+					while(drivers_used[driver] == 1):
+						driver = random.randint(0, NODRIVERS-1)
+					drivers_used[driver] = 1
 					
-					if (str(end_time.year) != CI_act_year):
-						CI_number_act = 1
-						CI_act_year = str(end_time.year)
-						break
-					CI_number = str(CI_number_act) + '/' + str(end_time.year)
-					CI_number_act = CI_number_act + 1
+					period_time_start = period_time_start_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
+					time_for_driver = time_for_driver_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
+					period_time_end = period_time_end_main + dateutil.relativedelta.relativedelta(minutes=random.randint(0,40))
 					
-					to_insert = "insert into FAKTURY values (" + "\'" + CI_number + "\'" + ", " + "\'" + klient + "\'" + ", " + "\'" + kierowca + "\'" + ", " + "\'" + str(trasa) + "\'" + ", " + "\'" + str(oplata) + "\'" + ", "+ "\'" + str(kilometry) + "\'" + ", " + "\'" + start_time.strftime("%Y-%m-%d %H:%M:%S") + "\'" + ", " + "\'" + end_time.strftime("%Y-%m-%d %H:%M:%S") + "\'" + ", "  + "\'" + str(status_platnosci) + "\'" + ");\n"
-					faktury.write(to_insert)
-					
-					CI_created = CI_created + 1				
-					time_for_driver = end_time
-					
+					while(time_for_driver < period_time_end):
+						start_time = time_for_driver + dateutil.relativedelta.relativedelta(minutes=random.randint(1,50)) + dateutil.relativedelta.relativedelta(minutes=random.randint(0,20))
+						end_time = start_time + dateutil.relativedelta.relativedelta(minutes=random.randint(8,60))
+						klient = klienttable[random.randint(0,NOCLIENTS-1)].replace("\n", "")
+						kierowca = kierowcytable[driver].replace("\n", "")
+						status_platnosci = random.randint(0,1)
+						kilometry = random.randint(100,5000)/100.0
+						oplata = kilometry*2 + 6.0
+						oplata = float("{0:.2f}".format(oplata))
+						trasa = random.randint(0,NOROADS - 1)
+						
+						if (str(end_time.year) != CI_act_year):
+							CI_number_act = 1
+							CI_act_year = str(end_time.year)
+							break
+						CI_number = str(CI_number_act) + '/' + str(end_time.year)
+						CI_number_act = CI_number_act + 1
+						
+						to_insert = "insert into FAKTURY values (" + "\'" + CI_number + "\'" + ", " + "\'" + klient + "\'" + ", " + "\'" + kierowca + "\'" + ", " + "\'" + str(trasa) + "\'" + ", " + "\'" + str(oplata) + "\'" + ", "+ "\'" + str(kilometry) + "\'" + ", " + "\'" + start_time.strftime("%Y-%m-%d %H:%M:%S") + "\'" + ", " + "\'" + end_time.strftime("%Y-%m-%d %H:%M:%S") + "\'" + ", "  + "\'" + str(status_platnosci) + "\'" + ");\n"
+						faktury.write(to_insert)
+						
+						CI_created = CI_created + 1				
+						time_for_driver = end_time
+						
+						if (CI_created >= t1_size):
+							break
 					if (CI_created >= t1_size):
 						break
 				if (CI_created >= t1_size):
 					break
-			if (CI_created >= t1_size):
-				break
-			time_for_driver_main = period_time_end_main
+				time_for_driver_main = period_time_end_main
