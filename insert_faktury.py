@@ -6,7 +6,7 @@ import numpy
 from time import gmtime, strftime
 from datetime import datetime
 
-NODRIVERS = 99
+NODRIVERS = 150
 NOROADS = 10000
 NOCLIENTS = 2500
 
