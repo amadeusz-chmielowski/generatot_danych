@@ -20,13 +20,16 @@ if __name__ == '__main__':
 		elif (arg == '-t2'):
 			t2_size = int(args[iterator+1])
 		iterator = iterator + 1
+
+	t1_size = 1000000
+	t2_size = 200
 	
-	klienci = pesel = open("pesel.txt", "r")
+	klienci = pesel = open("data/pesel.txt", "r")
 	klienttable = klienci.readlines()
-	kierowcy = pesel = open("pesel_kierowcy.txt", "r")
+	kierowcy = pesel = open("data/pesel_kierowcy.txt", "r")
 	kierowcytable = kierowcy.readlines()
 	
-	faktury = open("insert/faktury.sql", "w")
+	faktury = open("faktury.sql", "w")
 	
 	#t1 inserts
 	CI_created = 0
