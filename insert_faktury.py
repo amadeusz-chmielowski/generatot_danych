@@ -42,7 +42,7 @@ if __name__ == '__main__':
 			CI_created = 0
 		
 		CI_act_year = str(time.year)
-		if (t1 > 0):
+		if (t1_size > 0):
 			while(True):
 				period_time_start_main = time_for_driver_main + dateutil.relativedelta.relativedelta(hours=random.randint(0,3))
 				time_for_driver_main = period_time_start_main
